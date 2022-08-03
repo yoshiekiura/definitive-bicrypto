@@ -1,0 +1,96 @@
+.banner.pricing {
+    padding: 200px 0 100px;
+
+    .hero-area {
+        .banner-content {
+            h2.title {
+                color: #fff;
+                padding: 0px 0 15px;
+            }
+        }
+    }
+}
+ 
+
+.breadcrumb {
+    background: transparent;
+    padding: 0; 
+
+    li {
+        font-family: "Open Sans", sans-serif;
+        font-size: 18px;
+        line-height: 28px;
+        font-weight: 500;
+        text-transform: capitalize;
+        color: #fff;
+
+        a {
+            font-family: "Open Sans", sans-serif;
+            font-size: 18px;
+            line-height: 28px;
+            font-weight: 500;
+            text-transform: capitalize;
+            position: relative;
+            margin-right: 30px;
+            color: #fff;
+
+            &:after {
+                position: absolute;
+                font-family: "Font Awesome 5 Free";
+                font-weight: 900;
+                content: "\f061";
+                top: 52%;
+                right: -42%;
+                -webkit-transform: translateY(-50%);
+                transform: translateY(-50%);
+            }
+        }
+
+        i {
+            font-size: 18px;
+        }
+    }
+}
+ 
+.breadcrumb {
+    background: transparent;
+    padding: 0;
+
+    li {
+        font-family: "Open Sans", sans-serif;
+        font-size: 18px;
+        line-height: 28px;
+        font-weight: 500;
+        text-transform: capitalize;
+        color: #fff;
+
+        a {
+            font-family: "Open Sans", sans-serif;
+            font-size: 18px;
+            line-height: 28px;
+            font-weight: 500;
+            text-transform: capitalize;
+            position: relative;
+            margin-right: 30px;
+            color: #fff;
+
+            &:after {
+                position: absolute;
+                font-family: "Font Awesome 5 Free";
+                font-weight: 900;
+                content: "\f061";
+                top: 52%;
+                right: -42%;
+                -webkit-transform: translateY(-50%);
+                transform: translateY(-50%);
+            }
+        }
+
+        i {
+            font-size: 18px;
+        }
+    }
+} 
+.process.pricing{
+    padding: 115px 0px 120px;
+}

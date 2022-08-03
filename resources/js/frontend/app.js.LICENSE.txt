@@ -1,0 +1,103 @@
+/*!
+ * 
+ *   typed.js - A JavaScript Typing Animation Library
+ *   Author: Matt Boldt <me@mattboldt.com>
+ *   Version: v2.0.12
+ *   Url: https://github.com/mattboldt/typed.js
+ *   License(s): MIT
+ * 
+ */
+
+/*!
+ * Dashcore - HTML Startup Template
+ * Stripe menu.
+ * Copyright © 2021 5Studios.net
+ * https://5studios.net
+ */
+
+/*!
+ * Dashcore - HTML Startup Template, v3.0.0
+ * Horizontal random bubbles variations.
+ * Copyright © 2021 5Studios.net
+ * https://5studios.net
+ * Credits to: https://codepen.io/lokesh
+ */
+
+/*!
+ * Sizzle CSS Selector Engine v2.3.6
+ * https://sizzlejs.com/
+ *
+ * Copyright JS Foundation and other contributors
+ * Released under the MIT license
+ * https://js.foundation/
+ *
+ * Date: 2021-02-16
+ */
+
+/*!
+ * jQuery JavaScript Library v3.6.0
+ * https://jquery.com/
+ *
+ * Includes Sizzle.js
+ * https://sizzlejs.com/
+ *
+ * Copyright OpenJS Foundation and other contributors
+ * Released under the MIT license
+ * https://jquery.org/license
+ *
+ * Date: 2021-03-02T17:08Z
+ */
+
+/*!
+ * jQuery SmartWizard v5.1.1
+ * The awesome jQuery step wizard plugin
+ * http://www.techlaboratory.net/jquery-smartwizard
+ *
+ * Created by Dipu Raj
+ * http://dipu.me
+ *
+ * @license Licensed under the terms of the MIT License
+ * https://github.com/techlab/jquery-smartwizard/blob/master/LICENSE
+ */
+
+/*!
+ * jQuery Validation Plugin v1.19.3
+ *
+ * https://jqueryvalidation.org/
+ *
+ * Copyright (c) 2021 Jörn Zaefferer
+ * Released under the MIT license
+ */
+
+/*!
+ * jquery.animatebar.js 1.1
+ *
+ * Copyright 2018, 5Studios.net https://www.5studios.net
+ * Released under the GPL v2 License
+ *
+ * Date: Sep 13, 2018
+ */
+
+/*!
+ * node.extend
+ * Copyright 2011, John Resig
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * @fileoverview
+ * Port of jQuery.extend that actually works on node.js
+ */
+
+/*! Magnific Popup - v1.1.0 - 2016-02-20
+* http://dimsemenov.com/plugins/magnific-popup/
+* Copyright (c) 2016 Dmitry Semenov; */
+
+/*! odometer 0.4.8 */
+
+/**!
+ * is
+ * the definitive JavaScript type testing library
+ *
+ * @copyright 2013-2014 Enrico Marino / Jordan Harband
+ * @license MIT
+ */

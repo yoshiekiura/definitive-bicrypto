@@ -1,0 +1,1613 @@
+Accueil
+Connexion
+Gagner
+Perdre
+Dessiner
+Résultat
+Démarrer le robot
+Veuillez mettre votre appareil en mode portrait.
+Bot Trader Données factices/réelles
+Commerce binaire
+AVR
+Les usages
+La description
+Bénéfice minimal
+Bénéfice maximal
+est nouveau
+c'est actif
+Min
+Max
+Durées
+Le robot sera supprimé.
+Contrats de robots
+Démarrer
+Finir
+Définir le bénéfice
+Synchronisation des robots
+Créer un portefeuille
+Sélectionnez le robot
+Durée
+APR le plus élevé aujourd'hui
+Bienvenue
+Nouveau robot
+Exécuter des robots
+Robots terminés
+Investissement total
+Bénéfice/perte total
+Vos robots
+Parrainez et gagnez
+Parrainez vos amis et gagnez 5% de chaque client qui effectue 1 dépôt sur la plateforme.
+Inviter
+Pas installé
+Installer
+Résultats du commerçant de robots
+Ajusté
+Positif
+Négatif
+Robot
+Profit
+Paire
+Robots
+Journaux
+Journaux des robots
+Complété
+Voir le contrat
+Marchand de robots
+Départ
+Date de fin
+Bénéfice/perte
+Mon portefeuille
+Retour
+Liste des robots
+Supprimer la durée du bot
+Durée
+Taper
+Ajouter une nouvelle durée
+Durée du nouveau robot
+Modifier la durée du bot
+Nouveau robot
+Le robot sera supprimé.
+AVR
+Les usages
+Nom du robot
+Synchronisation des robots
+Gestionnaire de robots
+Gestionnaire de robots
+Exécuter des robots
+Robots terminés
+Paramètre de plate-forme
+KYC
+Montant minimum des transactions
+Montant maximum des transactions
+Négocie un minimum de secondes
+Négocie un maximum de secondes
+Métiers Minimum Minutes
+Nombre maximal de minutes d'échange
+Heures minimales des métiers
+Heures maximales des métiers
+Frais de transaction
+Portefeuille du destinataire
+Demande
+Demande depuis le portefeuille
+Depuis le portefeuille
+Au portefeuille
+Le portefeuille recevra
+Le portefeuille sera facturé
+Vous avez demandé
+Liste des paires
+Gestionnaire de pièces
+Créez votre premier portefeuille :
+Méthode de dépôt
+Méthode de retrait
+Info
+Mettre à jour les paramètres d'envoi
+Portefeuilles
+Tableau de bord par défaut pour l'utilisateur
+Portefeuille d'entraînement
+Acheter
+Vendre
+Échange cryptographique
+Frais d'échange
+Échange de portefeuille
+Montant à échanger
+quantité
+Nous contacter
+la licence est invalide
+veuillez contacter l'assistance.
+Montée/chute
+Optimiser
+la page que vous recherchez ne se ferme pas ou une autre erreur s'est produite
+Séparez plusieurs mots-clés par
+Gestionnaire de système
+Êtes-vous sûr d'activer
+Êtes-vous sûr de désactiver
+Étiquette de méthode
+Automatique
+Manuel
+Journaux réels
+Tâche planifiée
+Pour automatiser le résultat commercial, exécutez le
+minutes est idéal
+Pour automatiser le résultat du commerce d'entraînement, exécutez le
+Prix ​​de la mise à jour de la crypto-monnaie
+Commande Cron
+sur votre serveur. Réglez le temps de Cron au minimum possible. Une fois par
+Contrats de pratique
+Contrats commerciaux
+Liste des pièces
+Responsable KYC
+Toutes les applications KYC
+Gestionnaire de blogs
+ENSEMBLE
+Analyse de marché
+Tous les droits sont réservés
+Méta-mots clés
+Entrer
+virgule
+Séparé
+Meta Description
+Titre social
+Description sociale
+Télécharger une image
+L'image sera redimensionnée en
+pixels
+Fichiers pris en charge
+JPEG
+jpg
+clé
+ou
+Séparé
+Journal des transactions
+Inscrivez-vous
+Des postes
+Page d'accueil
+À propos de la page
+Page de contact
+Créer un nouveau
+Pratiquer le commerce
+Journaux de pratique
+Poster
+Auteur
+Activée
+Symbole de la pièce
+Mettre à jour la crypto-monnaie
+Voulez-vous vraiment supprimer cette pièce ?
+Version
+Qu'est-ce que la mise à jour ?
+Nombre total d'utilisateurs
+Nombre total d'utilisateurs vérifiés
+Nombre total d'utilisateurs non vérifiés par e-mail
+Nombre total d'utilisateurs SMS non vérifiés
+Total des crypto-devises
+Utilisateurs
+Utilisateurs vérifiés
+Envoyer un e-mail aux utilisateurs non vérifiés
+Utilisateurs SMS non vérifiés
+Monnaie cryptographique
+Rapport mensuel sur les dépôts et les retraits
+Montant total déposé
+Frais de dépôt totaux
+Montant déposé
+Frais de dépôt
+Retrait des frais
+Retrait en attente
+Nouvelle liste d'utilisateurs
+Historique des retraits des 30 derniers jours
+Dernière exécution de Cron
+Dépôt via
+Numéro de transaction
+Réponse de l'administrateur
+Informations sur le dépôt de l'utilisateur
+Image
+Approuver la confirmation de dépôt
+Approuver
+Refuser la confirmation de dépôt
+dépôt de
+Raison du rejet
+Rejeter
+Dépôt réussi
+Dépôt en attente
+Dépôt rejeté
+Numéro de transmission
+Méthode
+Approuvé
+Rejeté
+Code de dépôt/Nom d'utilisateur
+Date min - Date max
+Méthode d'envoi d'e-mail
+Messagerie PHP
+SMTP
+API SendGrid
+API Mailjet
+Envoyer un e-mail test
+Configuration SMTP
+Héberger
+smtp.googlemail.com
+Port
+Port disponible
+Chiffrement
+SSL
+TLS
+Nom d'utilisateur
+Normalement votre e-mail
+Mot de passe
+Normalement, votre mot de passe de messagerie
+Configuration de l'API SendGrid
+CLÉ D'APPLICATION
+Clé d'application SendGrid
+Configuration de l'API Mailjet
+CLÉ PUBLIQUE API
+CLÉ PUBLIQUE API Mailjet
+CLÉ SECRÈTE API
+CLÉ SECRÈTE API Mailjet
+Mettre à jour
+Tester la configuration de la messagerie
+Envoyé à
+Adresse e-mail
+Fermer
+Envoyer
+Petit code
+La description
+Petit code
+Nom d'utilisateur
+Petit code
+Message
+E-mail envoyé depuis
+Adresse e-mail
+Corps de l'e-mail
+Votre modèle d'e-mail
+Mettre à jour
+Nom
+Sujet
+Statut
+action
+Nom
+Sujet
+Statut
+actif
+Désactivée
+action
+Éditer
+Extension
+Statut
+action
+Extension
+Statut
+actif
+Désactivée
+action
+Configurer
+Aider
+Activer
+Désactiver
+Mettre à jour l'extension
+Scénario
+Collez votre script avec la clé appropriée
+Fermer
+Mettre à jour
+Confirmation de l'activation de l'extension
+extension
+Fermer
+Activer
+Confirmation de désactivation de l'extension
+extension
+Fermer
+Désactiver
+Besoin d'aide
+Fermer
+Extension
+Statut
+action
+Extension
+Statut
+actif
+Désactivée
+action
+Configurer
+Aider
+Activer
+Désactiver
+Mettre à jour l'extension
+Scénario
+Collez votre script avec la clé appropriée
+Fermer
+Mettre à jour
+Confirmation de l'activation de l'extension
+extension
+Fermer
+Activer
+Confirmation de désactivation de l'extension
+extension
+Fermer
+Désactiver
+Besoin d'aide
+Fermer
+identifiant
+Temps
+Unité
+Date de création
+action
+identifiant
+Temps
+Unité
+Date de création
+action
+Ajouter un paramètre commercial
+Temps
+Temps
+Unité
+Sélectionnez l'unité
+Secondes
+Minutes
+Les heures
+Fermer
+Sauvegarder
+Mettre à jour le paramètre commercial
+Temps
+Temps
+Unité
+Sélectionnez l'unité
+Secondes
+Minutes
+Les heures
+Fermer
+Mettre à jour
+Supprimer la confirmation
+Êtes-vous sûr de vouloir supprimer cette heure de négociation
+Fermer
+Supprimer
+Ajouter nouveau
+identifiant
+Nom d'utilisateur
+Monnaie cryptographique
+Symbole cryptographique
+Quantité
+À l'heure
+HautBas
+Résultat
+Statut
+Date
+identifiant
+Nom d'utilisateur
+Monnaie cryptographique
+Symbole cryptographique
+Quantité
+À l'heure
+Haut Bas
+Haut
+Meugler
+Résultat
+Gagner
+Perdre
+Dessiner
+En attente
+Statut
+Fonctionnement
+Compléter
+Date
+Nom d'utilisateur / Devise cryptographique
+Sélectionnez la devise
+Pas de support de devise disponible
+Ajouter nouveau
+Configurations
+Copie
+Paramètre global pour
+Nom de la passerelle
+Supprimer
+Varier
+Montant minimal
+Quantité maximale
+Charger
+Frais fixes
+Frais en pourcentage
+Devise
+Devise
+symbole
+Taux
+Configuration
+Nom
+Nom de la passerelle
+Supprimer
+Varier
+Montant minimal
+Quantité maximale
+Charger
+Frais fixes
+Frais en pourcentage
+Devise
+Devise
+symbole
+Taux
+Configuration
+Réglage de la mise à jour
+Confirmation de suppression de la devise de la passerelle
+devise de la passerelle ?
+Supprimer
+Fermer
+Retourner
+passerelle
+Devise prise en charge
+Devise activée
+Statut
+action
+passerelle
+image
+Devise prise en charge
+Devise activée
+Statut
+actif
+Désactivée
+action
+Éditer
+Activer
+Désactiver
+Confirmation d'activation du mode de paiement
+méthode
+Fermer
+Activer
+Confirmation de désactivation du mode de paiement
+méthode
+Fermer
+Désactiver
+Nom de la passerelle
+Nom de la méthode
+Devise
+Devise
+Taux
+Varier
+Montant minimal
+Quantité maximale
+Charger
+Frais fixes
+Frais en pourcentage
+Instruction de dépôt
+Données d'utilisateur
+Ajouter nouveau
+Enregistrer la méthode
+Retourner
+Nom de domaine
+Texte de saisie
+Zone de texte
+Téléchargement de fichiers
+Obligatoire
+Optionnel
+Nom de la passerelle
+Nom de la méthode
+Devise
+Devise
+Taux
+Varier
+Montant minimal
+Quantité maximale
+Charger
+Frais fixes
+Frais en pourcentage
+Instruction de dépôt
+Données d'utilisateur
+Ajouter nouveau
+Nom de domaine
+Texte de saisie
+Zone de texte
+Téléchargement de fichiers
+Obligatoire
+Optionnel
+Enregistrer la méthode
+Retourner
+Nom de domaine
+Texte de saisie
+Zone de texte
+Téléchargement de fichiers
+Obligatoire
+Optionnel
+passerelle
+Statut
+action
+passerelle
+image
+Statut
+actif
+Désactivée
+action
+Éditer
+Activer
+Désactiver
+Confirmation d'activation du mode de paiement
+méthode
+Fermer
+Activer
+Confirmation de désactivation du mode de paiement
+méthode
+Fermer
+Désactiver
+Ajouter nouveau
+Mots clés de langue de
+Ajouter une nouvelle clé
+Clé
+action
+Clé
+Valeur
+action
+Éditer
+Supprimer
+Ajouter nouveau
+Clé
+Clé
+Valeur
+Valeur
+Fermer
+Sauvegarder
+Éditer
+Valeur
+Fermer
+Mettre à jour
+Supprimer
+Etes-vous sûr que vous voulez supprimer?
+Fermer
+Supprimer
+Langue d'importation
+Si vous importez des mots-clés, vos mots-clés actuels seront supprimés et remplacés par des mots-clés importés
+Clé
+Importer des mots-clés
+Fermer
+Importer maintenant
+Langue d'importation
+Nom
+Code
+Défaut
+Actions
+Nom
+Code
+Statut
+Défaut
+Sélectionnable
+action
+Traduire
+Éditer
+Supprimer
+Ajouter une nouvelle langue
+Nom de la langue
+par exemple japonais, portugais
+Code de langue
+par exemple jp, pt-br
+Sens du texte
+De gauche à droite
+De droite à gauche
+Langage par défaut
+DÉSACTIVÉ
+Fermer
+Sauvegarder
+Modifier la langue
+Nom de la langue
+Langage par défaut
+DÉSACTIVÉ
+Fermer
+Mettre à jour
+Supprimer la langue
+Etes-vous sûr que vous voulez supprimer?
+Fermer
+Supprimer
+Ajouter une nouvelle langue
+Instruction de réglage de la tâche Cron
+minutes est idéal
+Commande Cron
+Copie
+minutes est idéal
+Commande Cron
+Copie
+minutes est idéal
+Commande Cron
+Copie
+Fermer
+Précédent
+Suivant
+identifiant
+Nom d'utilisateur
+Monnaie cryptographique
+Symbole cryptographique
+Quantité
+À l'heure
+HautBas
+Résultat
+Statut
+Date
+identifiant
+Nom d'utilisateur
+Monnaie cryptographique
+Symbole cryptographique
+Quantité
+À l'heure
+Haut Bas
+Haut
+Meugler
+Résultat
+Gagner
+Perdre
+Dessiner
+En attente
+Statut
+Fonctionnement
+Compléter
+Date
+Nom d'utilisateur / Devise cryptographique
+Date
+Nom d'utilisateur
+Du nom d'utilisateur
+TRX
+Quantité
+Publier le solde
+Détail
+Date
+Nom d'utilisateur
+Du nom d'utilisateur
+TRX
+Quantité
+Publier le solde
+Détail
+TRX / Nom d'utilisateur / Depuis le nom d'utilisateur
+Date
+Nom d'utilisateur
+IP
+Emplacement
+Navigateur
+SE
+Date
+Nom d'utilisateur
+IP
+Emplacement
+Navigateur
+SE
+Cherche ici
+Date
+TRX
+Nom d'utilisateur
+Quantité
+Charger
+Publier le solde
+Détail
+Date
+TRX
+Nom d'utilisateur
+Quantité
+Charger
+Publier le solde
+Détail
+TRX / Nom d'utilisateur
+TRX / Nom d'utilisateur
+Titre du site
+Clé API de taux de cryptage
+API TinyMCE
+Clé API du graphique de chiffrement
+Devise
+Symbole de la monnaie
+avec les modèles Persona KYC
+avec l'environnement Persona KYC
+Pratiquer l'équilibre
+Entrer le montant
+Bénéfice commercial
+Entrer le montant
+Prime de parrainage
+Entrer le montant
+Couleur de base du site
+Statut de parrainage
+Inactif
+Forcer le mot de passe sécurisé
+Désactivée
+Enregistrement de l'utilisateur
+Désactivée
+Forcer SSL
+Désactivée
+vérification de l'E-mail
+Désactiver
+Notification par e-mail
+Désactiver
+Vérification SMS
+Désactiver
+Notification par SMS
+Désactiver
+Mettre à jour
+Sélectionner un logo
+Sélectionner un favori
+Mettre à jour
+Petit code
+La description
+Statut
+Envoyer un SMS
+Message
+Votre message à l'aide de shortcodes
+Soumettre
+Retourner
+Nom
+Statut
+action
+Nom
+Statut
+actif
+Désactivée
+action
+Éditer
+Petit code
+La description
+Nombre
+Message
+Envoyer un SMS d'essai
+API SMS
+Configuration de l'API SMS
+Soumettre
+Tester la configuration de la messagerie
+Envoyé à
+mobile
+Fermer
+Envoyer
+E-mail
+Rejoint
+action
+E-mail
+Rejoint
+action
+Supprimer
+Voulez-vous vraiment supprimer ?
+sera supprimé.
+Fermer
+Supprimer
+Envoyer un e-mail
+Sujet
+Sujet du courriel
+Corps de l'e-mail
+Votre modèle d'e-mail
+Envoyer un mail
+Retourner
+Ouvert
+Répondu
+Réponse client
+Fermé
+Billet#
+Fermer le ticket
+Votre message
+Pièces jointes
+Sélectionnez votre dossier !
+Extensions de fichiers autorisées
+Répondre
+Supprimer
+Posté sur
+Attachement
+Personnel
+Supprimer
+Posté sur
+Attachement
+Fermer le ticket d'assistance !
+Souhaitez-vous fermer ce ticket d'assistance ?
+Non
+Fermer le ticket
+Supprimer la réponse !
+Êtes-vous sûr de vouloir supprimer ceci ?
+Non
+Supprimer
+Retourner
+Sujet
+Proposé par
+Statut
+Dernière réponse
+action
+Sujet
+Proposé par
+Statut
+Ouvert
+Répondu
+Réponse client
+Fermé
+Dernière réponse
+action
+Des détails
+Image de profil
+Inscrit à
+Informations de l'utilisateur
+Nom d'utilisateur
+Statut
+actif
+banni
+Référence par
+Équilibre
+Intervention de l'utilisateur
+Ajouter/Soustraire le solde
+Journaux de connexion
+Envoyer un e-mail
+Journal de référence
+Journal des commissions
+Dépôt total
+Retrait total
+Transaction totale
+Pratique totale
+Commerce total
+Commerce gagnant total
+Commerce perdant total
+Échange de tirage total
+Dépôt
+Retirer
+Transaction
+Entraine toi
+Échanger
+Commerce gagnant
+Perdre du commerce
+Échange de tirage
+Information
+Prénom
+Nom de famille
+E-mail
+Numéro de portable
+Adresse
+Numéro de maison, adresse municipale
+Ville
+État
+Code postal/code postal
+Pays
+Statut
+banni
+vérification de l'E-mail
+Non vérifié
+Vérification SMS
+Non vérifié
+Statut 2FA
+Désactiver
+Vérification 2FA
+Non vérifié
+Sauvegarder les modifications
+Ajouter / Soustraire le solde
+Soustraire le solde
+Quantité
+Veuillez fournir un montant positif
+Fermer
+Soumettre
+Sujet
+Sujet du courriel
+Message
+Votre message
+Envoyer un e-mail
+Sujet
+Sujet du courriel
+Message
+Votre message
+Envoyer un e-mail
+Utilisateur
+Nom d'utilisateur
+E-mail
+Téléphoner
+Inscrit à
+action
+Utilisateur
+image
+Nom d'utilisateur
+E-mail
+Téléphoner
+Inscrit à
+action
+Des détails
+Nom d'utilisateur ou email
+Date
+Nom d'utilisateur
+IP
+Emplacement
+Navigateur
+SE
+Date
+Nom d'utilisateur
+IP
+Emplacement
+Navigateur
+SE
+Nom de la méthode
+Devise
+Taux
+Varier
+Montant minimal
+Quantité maximale
+Charger
+Frais fixes
+Frais en pourcentage
+Données d'utilisateur
+Ajouter nouveau
+Texte de saisie
+Zone de texte
+Téléchargement de fichiers
+Obligatoire
+Optionnel
+image
+Date
+Nom d'utilisateur
+méthode
+Quantité
+Charger
+Taux
+Statut
+En attente
+image
+Fermer
+Fermer
+Nom de la méthode
+Devise
+Taux
+Varier
+Montant minimal
+Quantité maximale
+Charger
+Frais fixes
+Frais en pourcentage
+Données d'utilisateur
+Ajouter nouveau
+Texte de saisie
+Zone de texte
+Téléchargement de fichiers
+Obligatoire
+Optionnel
+Retourner
+Texte de saisie
+Zone de texte
+Téléchargement de fichiers
+Obligatoire
+Optionnel
+méthode
+Devise
+Charger
+Statut
+action
+méthode
+image
+Devise
+Charger
+Statut
+actif
+Désactivée
+action
+Éditer
+Désactiver
+méthode
+Fermer
+Activer
+méthode
+Fermer
+Désactiver
+Ajouter nouveau
+Date
+Nom d'utilisateur
+méthode
+Quantité
+Charger
+Taux
+action
+Statut
+Date
+Nom d'utilisateur
+méthode
+Quantité
+Charger
+Taux
+action
+Détail
+Statut
+En attente
+Détail
+image
+image
+image
+Page non trouvée
+ou temporairement indisponible.
+Aller à la maison
+image
+Désolé, votre session a expiré.
+Veuillez revenir en arrière et actualiser votre navigateur et réessayer
+Aller à la maison
+image
+Erreur interne du serveur
+Le serveur est déserté depuis un moment.
+Veuillez patienter ou réessayer plus tard.
+Aller à la maison
+Un nouveau lien de vérification a été envoyé à votre adresse e-mail.
+Merci d'avoir vérifié votre adresse e-mail.
+image
+image
+Ajouter une crypto-monnaie
+Voulez-vous vraiment ajouter cette pièce à la liste de surveillance ?
+Fermer
+Supprimer
+Portefeuille
+Ajouter un équilibre de pratique
+Êtes-vous sûr de vouloir ajouter un équilibre d'entraînement
+Fermer
+Confirmer
+Supprimer la confirmation
+Voulez-vous vraiment supprimer cette pièce de la liste de surveillance ?
+Fermer
+Supprimer
+image
+image
+Journal des transactions totales
+Commerce gagnant total
+Commerce perdant total
+Échange de tirage total
+Journal des échanges
+Journaux de commerce
+Commerce gagnant
+Perdre du commerce
+Échange de tirage total
+Solde actuel
+Dépôt
+Retirer
+Transactions totales
+Journal des transactions totales
+Commerce gagnant total
+Commerce perdant total
+Échange de tirage
+Transactions
+Demandes de connaissance du client
+KYC en attente
+KYC manquant
+KYC approuvé
+Commerce gagnant
+Perdre du commerce
+Échange de tirage total
+Voir tout
+identifiant
+Monnaie cryptographique
+Symbole cryptographique
+Quantité
+Haut/Bas
+Résultat
+Statut
+Date
+identifiant
+Monnaie cryptographique
+Symbole cryptographique
+Quantité
+Haut/Bas
+Haut
+Meugler
+Résultat
+Gagner
+Perdre
+Dessiner
+En attente
+Statut
+Fonctionnement
+Compléter
+Date
+Aucun résultat trouvé
+Soumettre
+E-mail
+Soumettre
+Nom d'utilisateur
+Nom d'utilisateur
+Mot de passe
+Mot de passe
+Nom d'utilisateur
+Mot de passe
+Mot de passe
+Prénom
+Prénom
+Nom de famille
+Nom de famille
+Nom d'utilisateur
+Nom d'utilisateur
+Mot de passe
+Mot de passe
+Date
+Nom d'utilisateur
+TRX
+Quantité
+Publier le solde
+Détail
+Date
+Nom d'utilisateur
+TRX
+Quantité
+Publier le solde
+Détail
+Augmenter
+Tombe
+Dessiner
+En attente
+Aucun résultat trouvé
+Augmenter
+Tombe
+Dessiner
+En attente
+Aucun résultat trouvé
+Ajouter un équilibre de pratique
+Pratiquer l'équilibre
+Échangeons maintenant
+Ajouter un équilibre de pratique
+Êtes-vous sûr de vouloir ajouter un équilibre d'entraînement
+Fermer
+Confirmer
+identifiant
+Monnaie cryptographique
+Symbole cryptographique
+Quantité
+Haut/Bas
+Résultat
+Statut
+Date
+Haut
+Meugler
+Gagner
+Perdre
+Dessiner
+En attente
+Fonctionnement
+Compléter
+Aucun résultat trouvé
+Entrer le montant
+Tombe
+Augmenter
+identifiant de transaction
+passerelle
+Quantité
+Statut
+Date
+Des détails
+TRX
+passerelle
+Quantité
+Compléter
+En attente
+Annuler
+Date
+Des détails
+Aucun résultat trouvé
+Des détails
+Quantité
+Charger
+Après charge
+Taux de conversion
+Montant payable
+Fermer
+Des détails
+Fermer
+image
+Informations de paiement
+Échangeons maintenant
+identifiant
+Monnaie cryptographique
+Symbole cryptographique
+Quantité
+Haut/Bas
+Résultat
+Statut
+Date
+Haut
+Meugler
+Gagner
+Perdre
+Dessiner
+En attente
+Fonctionnement
+Compléter
+Aucun résultat trouvé
+Prix
+Entrer le montant
+Haut
+Meugler
+Payez s'il vous plait
+pour un paiement réussi
+Veuillez suivre les instructions ci-dessous
+image
+Sélectionner
+Changer
+Supprimer
+Payez maintenant
+Aperçu du paiement
+MERCI D'ENVOYER EXACTEMENT
+À
+image
+NUMÉRISER POUR ENVOYER
+Déposez maintenant
+Limite de dépôt
+Charger
+Entrer le montant
+Fermer
+Soumettre
+Paiement par,
+Image de paiement
+Le montant final
+Pour obtenir
+Payez maintenant
+Image de paiement
+Le montant final
+Pour obtenir
+Payez maintenant
+Image de paiement
+Quantité
+Charger
+Payable
+Taux de conversion
+Dans
+Transformation avec
+et la valeur finale s'affichera à l'étape suivante
+Payez maintenant
+Payez maintenant
+Image de paiement
+Le montant final
+Pour obtenir
+Paiement Stripe
+NOM DE LA CARTE
+Nom de la carte
+NUMÉRO DE CARTE
+Numéro de carte valide
+DATE D'EXPIRATION
+MM / AAAA
+LE CODE CVC
+CVC
+Payez maintenant
+Image de paiement
+Le montant final
+Pour obtenir
+Dépôt avec Stripe
+Image de paiement
+Le montant final
+Pour obtenir
+Payez maintenant
+identifiant
+Prénom
+Nom de famille
+Nom d'utilisateur
+Date
+identifiant
+Prénom
+Nom de famille
+Nom d'utilisateur
+Date
+Tous les billets
+Nom
+E-mail
+Sujet
+Entrez le sujet
+Message
+Message
+Pièces jointes
+Extensions de fichiers autorisées
+Envoyer le message
+Nouveau billet
+Sujet
+Statut
+Dernière réponse
+action
+Billet
+Statut
+Ouvert
+Répondu
+Réponse client
+Fermé
+Dernière réponse
+action
+Aucun résultat trouvé
+Ouvert
+Répondu
+A répondu
+Fermé
+Billet
+Fermer le ticket
+Entrer un message
+Pièces jointes
+Extensions de fichiers autorisées
+Envoyer le message
+Utilisateur
+Posté sur
+Attachement
+Image d'administration
+Posté sur
+Attachement
+Confirmation
+Êtes-vous sûr de vouloir fermer ce ticket d'assistance
+Fermer
+Confirmer
+Date
+TRX
+Quantité
+Charger
+Publier le solde
+Détail
+Date
+TRX
+Quantité
+Charger
+Publier le solde
+Détail
+passerelle
+Quantité
+Charger
+Taux
+Statut
+TRX
+passerelle
+Quantité
+Charger
+Taux
+Statut
+En attente
+Des détails
+Fermer
+Charger
+Fermer
+Confirmer
+Charger
+image
+Supprimer
+Confirmer
+Fermer
+Confirmer
+Auteur
+Date de création
+Statut
+image
+Désactivée
+Activée
+action
+Supprimer la confirmation
+Voulez-vous vraiment supprimer cette pièce ?
+Fermer
+Supprimer
+Poster
+Ajouter nouveau
+Tableau de bord
+Des nouvelles
+Journal d'entraînement
+Journal de pratique
+Dépôt
+Déposer de l'argent
+Historique des dépôts
+Retirer
+Retirer de l'argent
+Retirer l'historique
+Référence
+Journal de référence
+gérer les utilisateurs
+Tous les utilisateurs
+Utilisateurs actifs
+Utilisateurs bannis
+E-mail non vérifié
+SMS non vérifié
+Envoyer un e-mail
+Monnaie cryptographique
+Cadre commercial
+Pratiquer le commerce
+Tout
+Gagner
+Perdant
+Dessiner
+Journal des échanges
+Journaux de commerce
+Passerelles de paiement
+Passerelles automatiques
+Passerelles manuelles
+Dépôts
+Dépôts en attente
+Dépôts approuvés
+Dépôts réussis
+Dépôts rejetés
+Tous les dépôts
+Retraits
+Méthodes de retrait
+Journal en attente
+Journal approuvé
+Journal rejeté
+Journal des retraits
+Billet d'assistance
+Tous les billets
+Billet en attente
+Billet fermé
+Ticket Répondu
+Reportage
+Historique des transactions
+Journal des commissions
+Historique de connexion
+Les abonnés
+Réglages
+Réglage général
+Réglage de l'icône du logo
+Rallonges
+Langue
+Gestionnaire de référencement
+Gestionnaire de messagerie
+Modèle global
+Modèles d'e-mails
+Configurer la messagerie
+Gestionnaire de SMS
+Paramètre API
+Modèles de SMS
+Gestionnaire frontal
+Gérer les modèles
+Gérer les pages
+Gérer la section
+Section d'application
+Section bannière
+Rubrique Blogue
+Fil d'Ariane
+Section d'appel à l'action
+Rubrique Contactez-nous
+FAQ
+Section des fonctionnalités
+Section de pied de page
+Prédire la section
+Section des icônes sociales
+Rubrique Abonnez-vous
+Section commerciale
+Rubrique Tendance
+Kit de démarrage
+Applications et pages
+Interface utilisateur
+Tableaux de bord
+Analytique
+commerce électronique
+applications
+Éléments de l'interface utilisateur
+Formulaires et tableaux
+pages
+Graphiques et cartes
+Autres
+E-mail
+Discuter
+Faire
+Calendrier
+Commerce électronique
+Boutique
+Liste de souhaits
+Vérifier
+Kit de démarrage
+1 colonne
+2 colonnes
+Barre de navigation fixe
+Barre de navigation flottante
+Disposition fixe
+Disposition statique
+Mise en page sombre
+Disposition lumineuse
+Liste de données
+Affichage de liste
+Vue du pouce
+Contenu
+Grille
+Typographie
+Utilitaires de texte
+Surligneur de syntaxe
+Classes d'assistance
+Couleurs
+Icônes
+Plume
+Police géniale
+Carte
+De base
+Avance
+Avancée
+Statistiques
+Actions de la carte
+Tableau
+Table de données
+Composants
+Alertes
+Boutons
+Chapelure
+Carrousel
+Effondrer
+Listes déroulantes
+Groupe de liste
+Modaux
+Pagination
+Composant de navigation
+Barre de navigation
+Composant Onglets
+Composant de pilules
+Info-bulles
+popovers
+Insignes
+Insignes de pilule
+Le progrès
+Fileur
+Toasts
+Composants supplémentaires
+Avatar
+Puces
+Diviseur
+Éléments de formulaire
+Sélectionner
+Changer
+Case à cocher
+Radio
+Saisir
+Groupes d'entrée
+Saisie numérique
+Zone de texte
+Sélecteur de date et d'heure
+Disposition du formulaire
+Assistant Formulaire
+Validation du formulaire
+Authentification
+Connexion v1
+Connexion v2
+S'inscrire v1
+S'inscrire v2
+Mot de passe oublié v1
+Mot de passe oublié v2
+Réinitialiser le mot de passe v1
+Réinitialiser le mot de passe v2
+À venir
+Erreur
+404
+500
+Pas autorisé
+Maintenance
+Profil
+FAQ
+Base de connaissances
+Chercher
+Facture d'achat
+Graphiques
+Sommet
+Graphiques
+Cartes électroniques
+Google Maps
+Alerte sucrée
+Grille-pain
+Curseurs
+Téléchargeur de fichiers
+Éditeur de plumes
+Glisser-déposer
+Tour
+Presse-papiers
+Menu contextuel
+l18n
+Niveaux de menus
+Deuxième niveau 2.1
+Deuxième niveau 2.2
+Troisième niveau 3.1
+Troisième niveau 3.2
+Menu désactivé
+Documentation
+Augmenter le soutien
+Divers
+Rallonges
+Lecteur multimédia
+Paramètres utilisateur
+Utilisateur
+Lister
+Voir
+Éditer
+Paramètres du compte
+Erreur 404
+Erreur 405
+Des détails
+Balayeur
+I18n
+Contrôle d'accès
+Gestionnaire de fichiers
+Tarification
+Kanban
+Aperçu
+Ajouter
+Blog
+Détail
+Modèle de courrier
+Bienvenue
+Oublié
+Vérifier
+Désactiver
+Commander
+Mises en page
+Menu réduit
+Mise en page complète
+Sans menus
+Mise en page vide
+Mise en page vide
+Répéteur de formulaire
+Cartes dépliantes
+Divers
+Masque de saisie
+Chronologie
+BlocUI
+Arbre
+Notes
+Lieu
+réinitialiser le mot de passe
+Vérifier les courriels
+Désactiver le compte
+Promotionnel
+Accordéon
+Hors toile
+Cake sésame snaps cupcake pain d'épice danois J'adore le pain d'épice. Tarte aux pommes tarte aux jujubes chupa chups muffin sucette halvah. Gâteau au chocolat gâteau à l'avoine tiramisu pâte d'amande sucre prune. Donut tarte sucrée gâteau à l'avoine dragée gâteau aux fruits barbe à papa gouttes de citron.

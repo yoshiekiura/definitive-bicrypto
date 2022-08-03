@@ -1,0 +1,255 @@
+
+// cursor for clickable elements
+.clickable, [clickable] {
+  cursor: pointer;
+}
+
+// not rendered
+.hidden, [hidden] {
+  display: none;
+}
+
+// visible but not usable
+.disabled, [disabled] {
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+// rendered but not visible or usable
+.cloaked, [cloaked], [v-cloak] {
+  pointer-events: none;
+  opacity: 0.0000000000001;
+}
+
+// faded transparent
+.transparent {
+  opacity: 0;
+}
+
+// background color for testing elements
+.bgtest {
+  background-color: rgba( pink, .1 ) !important;
+}
+
+// neutral color for price change
+.app-wrap {
+  .color { color: $colorGrey; }
+  polyline { stroke: $colorGrey; }
+  circle { fill: $colorGrey; }
+
+  // gain color for price chage
+  .gain .color { color: $colorGain; }
+  .gain polyline { stroke: $colorGain; }
+  .gain circle { fill: $colorGain; }
+
+  // loss color for price change
+  .loss .color { color: $colorLoss; }
+  .loss polyline { stroke: $colorLoss; }
+  .loss circle { fill: $colorLoss; }
+
+  // position helpers
+  .pos-abs { position: absolute; }
+  .pos-rel { position: relative; }
+}
+
+// common dark faded content wells
+.well {
+  position: relative;
+  padding: calc( $padSpace * .4 ) calc( $padSpace * .8 );
+  background-image: radial-gradient( ellipse at top left, rgba( black, 0.2 ) 0%, rgba( black, 0.01 ) 100% );
+  border-radius: $lineJoin;
+}
+
+// horizontail container for inline nav links
+.navlinks {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin: 0 0 $padSpace 0;
+  padding: $padSpaceSmall $padSpace;
+  line-height: 2em;
+}
+
+// common page wrapper to clear fixed topbar
+.page-wrap {
+  position: relative;
+
+  .page-topbar {
+    position: relative;
+    padding: 10px 0 10px 0;
+    width: 100%;
+    background-color: rgba( $colorDocument, 0 );
+    z-index: ( $zindexElements - 1 );
+  }
+  // collapsed mode
+  &.collapsed {
+    .page-topbar {
+      //transform: translateY( +#{$topbarH} );
+      top: #{$topbarH};
+      position: sticky;
+    }
+  }
+  // opaque mode
+  &.opaque {
+    .page-topbar {
+      background-color: rgba( 0, 0, 0, 0.85 );
+      box-shadow: $shadowBold;
+    }
+  }
+}
+
+// common lists used in pages
+.pagelist-wrap {
+  position: relative;
+
+  .pagelist-item {
+    margin: 0 0 ( $padSpace * .4 ) 0;
+    padding: calc( $padSpace * .6 ) $padSpace;
+    background:rgb(255 255 255 / 6%);
+    border-radius: $lineJoin;
+
+    &:hover {
+      background-color: rgb(255 255 255 / 12%);
+    }
+  }
+}
+
+// common table-like lists
+.tablelist-wrap {
+  position: relative;
+  min-width: 300px;
+
+  .tablelist-header {
+    padding: 1em;
+  }
+  .tablelist-content {
+    overflow: hidden;
+    overflow-y: auto;
+    max-height: 300px;
+    border-top: $lineWidth $lineStyle $lineColor;
+    border-bottom: $lineWidth $lineStyle $lineColor;
+
+    & > .tablelist-row {
+      padding: calc( $padSpace / 2 ) calc( $padSpace * 1.6 );
+      background-color: rgba( black, 0 );
+      line-height: 1.2rem;
+
+      & + .tablelist-row {
+        margin-top: $lineWidth;
+      }
+      &:hover {
+        background-color: rgba( black, .1 );
+      }
+      &.active {
+        background-color: rgba( black, .2 );
+        color: $colorPrimary;
+      }
+    }
+  }
+  @for $i from 1 through 10 {
+    $s: ( 10 * $i );
+    $p: ( 10% * $i );
+    .tablelist-#{$s} { flex: $p; width: $p; }
+  }
+}
+
+// percent bars
+.percent-bar {
+  display: block;
+  overflow: hidden;
+  height: 5px;
+  background-color: rgba( $colorInfo, 0.25 );
+  border-radius: $lineJoin;
+
+  & > :first-child {
+    display: block;
+    height: 5px;
+    border-radius: $lineJoin;
+  }
+}
+
+// rounded images
+.img-round {
+  display: block;
+  overflow: hidden;
+  background-color: $colorGrey;
+  text-align: center;
+  line-height: 100%;
+  border-radius: 100px;
+  color: $colorDocument;
+}
+
+// alert circle within elements
+.alert-bubble {
+  position: relative;
+
+  &:before {
+    content: '';
+    display: block;
+    position: absolute;
+    pointer-events: none;
+    right: -0.3em;
+    top: 0;
+    width: 1em;
+    height: 1em;
+    background-color: lighten( $colorDanger, 5% );
+    border-radius: 50%;
+    box-shadow: 0 1px 3px rgba( 0, 0, 0, 0.5 );
+    animation: pulseFade 1s linear infinite;
+    z-index: 10;
+  }
+}
+// emoji alarm indicator
+.alarm-bubble {
+  position: relative;
+
+  &:before {
+    content: '\f101';
+    color: #ff9f43 !important;
+    font-family: 'bootstrap-icons';
+    display: block;
+    position: absolute;
+    pointer-events: none;
+    font-size: 120%;
+    right: -0.2em;
+    top: -0.2em;
+    text-shadow:0 1px 3px rgba( 0, 0, 0, 0.5 );
+    animation: pulseFade 1s linear infinite;
+    z-index: 10;
+  }
+}
+
+// common borders
+.border-top {
+  border-top: $lineWidth $lineStyle $lineColor;
+}
+.border-right {
+  border-right: $lineWidth $lineStyle $lineColor;
+}
+.border-bottom {
+  border-bottom: $lineWidth $lineStyle $lineColor;
+}
+.border-left {
+  border-left: $lineWidth $lineStyle $lineColor;
+}
+
+// media query helpers
+.if-small {
+  display: none;
+  @media #{$screenSmall} {
+    display: initial;
+  }
+}
+.if-medium {
+  display: none;
+  @media #{$screenMedium} {
+    display: initial;
+  }
+}
+.if-large {
+  display: none;
+  @media #{$screenLarge} {
+    display: initial;
+  }
+}
+

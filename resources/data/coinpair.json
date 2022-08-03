@@ -1,0 +1,236 @@
+{
+    "data": [
+        {
+            "responsive_id": "",
+            "id": 1,
+            "name": "Bitcoin",
+            "image": "BTC.PNG",
+            "symbol": "BTC",
+            "status": 1
+        },
+        {
+            "responsive_id": "",
+            "id": 2,
+            "name": "Tether",
+            "image": "USDT.PNG",
+            "symbol": "USDT",
+            "status": 1
+        },
+          {
+            "responsive_id": "",
+            "id": 3,
+            "name": "Ethereum",
+            "image": "ETH.png",
+            "symbol": "ETH",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 4,
+            "name": "Binance Coin",
+            "image": "BNB.png",
+            "symbol": "BNB",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 5,
+            "name": "TrueUSD",
+            "image": "TUSD.png",
+            "symbol": "TUSD",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 6,
+            "name": "Pax Dollar",
+            "image": "PAX.png",
+            "symbol": "PAX",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 7,
+            "name": "USD Coin",
+            "image": "USDC.png",
+            "symbol": "USDC",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 8,
+            "name": "XRP",
+            "image": "XRP.png",
+            "symbol": "XRP",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 9,
+            "name": "Stably USD",
+            "image": "USDS.png",
+            "symbol": "USDS",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 10,
+            "name": "TRON",
+            "image": "TRX.png",
+            "symbol": "TRX",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 11,
+            "name": "Binance USD",
+            "image": "BUSD.png",
+            "symbol": "BUSD",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 12,
+            "name": "CryptoNijigen",
+            "image": "NGN.png",
+            "symbol": "NGN",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 13,
+            "name": "RUB",
+            "image": "RUB.png",
+            "symbol": "RUB",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 14,
+            "name": "TryHards",
+            "image": "TRY.png",
+            "symbol": "TRY",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 15,
+            "name": "Euro",
+            "image": "EUR.png",
+            "symbol": "EUR",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 16,
+            "name": "ZAR",
+            "image": "ZAR.png",
+            "symbol": "ZAR",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 17,
+            "name": "Binance KRW",
+            "image": "BKRW.png",
+            "symbol": "BKRW",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 18,
+            "name": "Rupiah Token",
+            "image": "IDRT.png",
+            "symbol": "IDRT",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 19,
+            "name": "Good Boy Points",
+            "image": "GBP.png",
+            "symbol": "GBP",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 20,
+            "name": "BIDR",
+            "image": "BIDR.png",
+            "symbol": "BIDR",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 21,
+            "name": "Australian dollar",
+            "image": "AUD.png",
+            "symbol": "AUD",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 22,
+            "name": "DAI",
+            "image": "DAI.png",
+            "symbol": "DAI",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 23,
+            "name": "Borealis",
+            "image": "BRL.png",
+            "symbol": "BRL",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 24,
+            "name": "Binance VND",
+            "image": "BVND.png",
+            "symbol": "BVND",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 25,
+            "name": "VAI",
+            "image": "VAI.png",
+            "symbol": "VAI",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 26,
+            "name": "GYEN",
+            "image": "GYEN.png",
+            "symbol": "GYEN",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 27,
+            "name": "Pax Dollar",
+            "image": "USDP.png",
+            "symbol": "USDP",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 28,
+            "name": "Dogecoin",
+            "image": "DOGE.png",
+            "symbol": "DOGE",
+            "status": 1
+          },
+          {
+            "responsive_id": "",
+            "id": 29,
+            "name": "TerraUSD",
+            "image": "UST.png",
+            "symbol": "UST",
+            "status": 1
+          }
+    ]
+}

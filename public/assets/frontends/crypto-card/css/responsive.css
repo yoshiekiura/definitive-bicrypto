@@ -1,0 +1,228 @@
+   /*******************************
+   	All Responsive Code
+   *******************************/
+
+   @media (min-width: 2401px) {
+	.banner {
+		padding: 350px 0 450px;
+	}
+}
+
+@media (max-width: 2400px) {
+	.banner {
+		padding: 350px 0 450px;
+	}
+}
+
+@media (max-width: 1920px) {
+	.banner {
+		padding: 250px 0 380px;
+	}
+}
+
+@media (max-width: 1600px) {
+	.banner .bg-sape {
+		right: -13%;
+	}
+}
+
+@media (max-width: 1399px) {
+	.banner .bg-sape {
+		right: -13%;
+		width: 60%;
+	}
+
+	.banner {
+		padding: 250px 0 200px;
+	}
+}
+
+@media (max-width: 1199px) {
+	#scrollUp {
+		right: 0%;
+	}
+
+	.mein-menu .navbar #navbarNavDropdown ul.navbar-nav li.nav-item {
+		margin-left: 20px;
+	}
+
+	.banner .bg-sape {
+		display: none;
+	}
+
+	.feature .section-head .icon {
+		margin: 0 auto 0px;
+	}
+
+	.card-type .card-box {
+		margin-left: 0px;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+			-ms-flex-direction: column;
+				flex-direction: column;
+		padding: 30px 30px 30px;
+	}
+
+	.card-type .card-box .thumb {
+		position: relative;
+		top: auto;
+		right: auto;
+		max-width: 100%;
+	}
+
+	.pricing .pricing-box,
+	.pricing .pricing-box.active {
+		margin: 15px 15px 15px;
+	}
+
+	.pricing .pricing-box.active .top-content {
+		padding: 22px 30px 0px;
+	}
+
+	.pricing .pricing-box.active a.button {
+		margin: 40px auto 30px;
+	}
+
+	.footer .footer-box h4.lasthead {
+		margin-top: 30px;
+	}
+
+	.subscribe .content-box {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+			-ms-flex-direction: column;
+				flex-direction: column;
+	}
+
+	.subscribe .content-box .content {
+		width: 100%;
+	}
+
+	.subscribe .content-box .input-box {
+		width: 100%;
+		margin-top: 30px;
+	}
+
+	.steps .steps-box .thumb-box .arrow {
+		display: none;
+	}
+
+}
+
+@media (max-width: 991px) {
+
+	.mein-menu {
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		background: -webkit-linear-gradient(45deg, rgba(144, 62, 255, 1) 0%, rgba(62, 25, 255, 1) 100%);
+		background: linear-gradient(45deg, rgba(144, 62, 255, 1) 0%, rgba(62, 25, 255, 1) 100%);
+		box-shadow: 3.801px 12.432px 24px 0px rgb(150 131 225 / 40%);
+		z-index: 99999;
+		padding: 10px 0 10px;
+	}
+
+	.mein-menu .navbar .navbar-toggler:focus {
+		box-shadow: 0;
+	}
+
+	.mein-menu .navbar #navbarNavDropdown ul.navbar-nav {
+		height: 350px;
+		overflow: auto;
+	}
+
+	.mein-menu .navbar #navbarNavDropdown ul.navbar-nav {
+		margin-left: auto;
+		-webkit-box-align: start;
+		-ms-flex-align: start;
+		-ms-grid-row-align: flex-start;
+		align-items: flex-start;
+	}
+
+	.mein-menu .navbar #navbarNavDropdown ul.navbar-nav li.nav-item {
+		margin-left: 0;
+		margin-top: 10px;
+	}
+
+	.mein-menu .navbar #navbarNavDropdown ul.navbar-nav li.nav-item a.nav-link:before {
+		top: calc(100% + 0px);
+	}
+
+	h1.head {
+		font-size: 48px;
+		line-height: 58px;
+	}
+
+	.subscribe .content-box .content h3.title,
+	h2.title {
+		font-size: 35px;
+		line-height: 45px;
+	}
+
+	.footer .footer-bottom {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: reverse;
+			-ms-flex-direction: column-reverse;
+				flex-direction: column-reverse;
+	}
+
+	.footer .footer-bottom .social-style {
+		margin-bottom: 20px;
+	}
+
+	.banner {
+		padding: 210px 0 120px;
+	}
+
+	.card-type .card-box .last-content {
+		text-align: center;
+	}
+
+}
+
+@media (max-width: 767px) {
+	.banner .hero-area .banner-content .link-box a.one {
+		margin-right: 0px;
+		margin-bottom: 20px;
+	}
+
+	.subscribe .content-box {
+		padding: 40px 30px 40px;
+	}
+
+}
+
+@media (max-width: 575px) {
+	.subscribe .content-box .input-box .form-group button.button-1 {
+		position: relative;
+		top: auto;
+		right: auto;
+		margin-top: 20px;
+	}
+
+	.subscribe .content-box .input-box .form-group input {
+		padding: 0px 10px 0px 30px;
+	}
+	.card-type .card-box { 
+	  min-height: auto; 
+  }
+  .pricing .pricing-box, .pricing .pricing-box.active {
+		margin: 30px 0px 0px; 
+  }
+  .faq .fdot-1,
+  .faq .fdot-2,
+  .faq .fdot-3{ 
+	  display: none;
+  }
+}
+
+@media (max-width: 414px) {
+  .pricing .pricing-box .list li.list-item span.one,
+  .pricing .pricing-box .list li.list-item span.two {
+	  font-size: 18px;
+	  line-height: 28px; 
+  }
+}
+
+@media (max-width: 360px) {}

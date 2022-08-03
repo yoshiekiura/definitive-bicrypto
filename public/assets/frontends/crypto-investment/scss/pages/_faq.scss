@@ -1,0 +1,151 @@
+.banner.faq {
+    padding: 200px 0 100px;
+
+    .hero-area .banner-content h2.title {
+        color: #fff;
+        padding: 0px 0 3px;
+    }
+}
+
+
+/* Faq Start */
+.faq {
+    padding: 114px 0px 107px;
+    position: relative;
+
+    .upper-content {
+        margin-bottom: 42px;
+        text-align: center;
+
+        h4.lasthead {
+            text-transform: capitalize;
+        }
+
+        h3.subtitle {
+            color: #33276a;
+        }
+
+        h2.title {
+            color: #33276a;
+            padding: 13px 0 4px;
+        }
+
+        p.text {
+            color: #33276a;
+        }
+
+    }
+
+    .nav {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        margin-bottom: 25px;
+
+        .nav-item {
+            margin: 15px;
+
+            .nav-link {
+                background: -webkit-linear-gradient(45deg, rgba(144, 62, 255, 1) 0%, rgba(62, 25, 255, 1) 100%);
+                background: linear-gradient(45deg, rgba(144, 62, 255, 1) 0%, rgba(62, 25, 255, 1) 100%);
+                border-radius: 30px;
+            }
+
+            .nav-link.active {
+                background: -webkit-linear-gradient(66deg, rgba(62, 25, 255, 1) 0%, rgba(144, 62, 255, 1)100%);
+                background: linear-gradient(24deg, rgba(62, 25, 255, 1) 0%, rgba(144, 62, 255, 1)100%);
+                box-shadow: 0px 7px 13px 0px rgb(153 99 255 / 59%);
+            }
+        }
+    }
+
+    .accordion {
+        .accordion-item {
+            outline: none;
+            margin-top: 30px;
+
+            &:first-child {
+                margin-top: 0;
+            }
+
+            .accordion-header {
+                position: relative;
+                border-radius: 10px;
+                background-color: rgb(255, 255, 255);
+                box-shadow: 9.272px 3.746px 38px 0px rgba(176, 163, 231, 0.26);
+
+                button.accordion-button {
+                    position: relative;
+                    font-family: 'Josefin Sans', sans-serif;
+                    font-size: 24px;
+                    line-height: 34px;
+                    font-weight: 400;
+                    color: #33276a;
+                    border-radius: 0;
+                    border: none;
+                    outline: none !important;
+                    padding: 20px 50px 20px 20px;
+
+                    &[aria-expanded="true"] {
+                        background: transparent;
+                        outline: none !important;
+                    }
+
+                    &:focus {
+                        box-shadow: 0 0 0 0 rgb(13 110 253 / 25%);
+                    }
+
+                    .icon {
+                        margin-right: 20px;
+                    }
+
+                    &:after {
+                        display: none;
+                    }
+
+                    &:before {
+                        position: absolute;
+                        right: 30px;
+                        top: 50%;
+                        -webkit-transform: translateY(-50%);
+                        transform: translateY(-50%);
+                        content: "\f054";
+                        font-family: 'Font Awesome 5 Free';
+                        font-weight: 900;
+                        color: #33276a;
+                    }
+                }
+
+                button.accordion-button[aria-expanded="true"]:before {
+                    top: 35%;
+                    -webkit-transform: rotate(90deg);
+                    transform: rotate(90deg);
+                }
+
+            }
+
+            .accordion-collapse {
+                border: none;
+                border-top: 0;
+                border-radius: 0px 0px 10px 10px;
+                background-color: rgb(255, 255, 255);
+                box-shadow: 9.272px 3.746px 38px 0px rgba(176, 163, 231, 0.26);
+
+                .accordion-body {
+                    font-family: 'Open Sans', sans-serif;
+                    font-size: 18px;
+                    line-height: 28px;
+                    color: #33276a;
+                    font-weight: 400;
+                    padding: 24px 30px 26px 30px;
+                }
+            }
+        }
+    }
+}

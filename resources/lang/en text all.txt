@@ -1,0 +1,1613 @@
+Home
+Login
+Win
+Lose
+Draw
+Result
+Start Bot
+Please turn your device in portrait mode.
+Bot Trader Fake/Real Data
+Binary Trading
+APR
+Uses
+Description
+Minimum Profit
+Maximum Profit
+is New
+is Active
+Min
+Max
+Durations
+Bot will be removed.
+Bot Contracts
+Start
+End
+Set Profit
+Bot Timing
+Create Wallet
+Select Bot
+Duration
+ighest APR Today
+Welcome
+New Bot
+Running Bots
+Completed Bots
+Total Investment
+Total Profit/Lose
+Your Bots
+Refer & Earn
+Refer your friends & Earn for 5% of every customer that complete 1 deposit in the platform.
+Invite
+Not Installed
+Install
+Bot Trader Results
+Adjusted
+Positive
+Negative
+Bot
+Profit
+Pair
+Bots
+Logs
+Bot Logs
+Completed
+View Contract
+Bot Trader
+Starting
+End Date
+Profit/Loses
+My Wallet
+Back
+Bots list
+Remove Bot Duration
+Duration
+Type
+Add New Duration
+New Bot Duration
+Edit Bot Duration
+New Bot
+Bot will be removed.
+APR
+Uses
+Bot Name
+Bot Timing
+Bot Manager
+Bots Manager
+Running Bots
+Completed Bots
+Platform Setting
+KYC
+Trades Minimum Amount
+Trades Maximum Amount
+Trades Minimum Seconds
+Trades Maximum Seconds
+Trades Minimum Minutes
+Trades Maximum Minutes
+Trades Minimum Hours
+Trades Maximum Hours
+Transaction Fee
+Reciever Wallet
+Request
+Request From Wallet
+From Wallet
+To Wallet
+Wallet Will Recieve
+Wallet Will Be Charged
+You have requested
+Pair list
+Coin Manager
+Create your first wallet:
+Deposit Method
+Withdraw Method
+Info
+Update Mailing Setting
+Wallets
+Default Dashboard For User
+Practice Wallet
+Buy
+Sell
+Crypto Exchange
+Exchange Fee
+Wallet Exchange
+Amount To Exchange
+amount
+Contact Us
+license is invalid
+please contact support.
+Rise/Fall
+Optimize
+page you are looking for doesn't exit or an other error occured
+Separate multiple keywords by
+System Manager
+Are you sure to activate
+Are you sure to disable
+Method Label
+Automatic
+Manual
+Real Logs
+cron job
+To Automate trade result run the
+minutes is ideal
+To automate practice trade result run the
+Crypto Currency Update Price
+Cron Command
+on your server. Set the Cron time as minimum as possible. Once per
+Practice Contracts
+Trade Contracts
+Coin List
+KYC Manager
+All KYC Application
+Blog Manager
+SET
+Market Analysis
+All Rights Reserved
+Meta Keywords
+enter
+comma
+Separate
+Meta Description
+Social Title
+Social Description
+Upload Image
+Image will be resized into
+px
+Supported files
+jpeg
+jpg
+key
+or
+Separate
+Transaction Log
+Signup
+Posts
+Home Page
+About Page
+Contact Page
+Create New
+Practice Trade
+Practice Logs
+Post
+Author
+Enabled
+Coin Symbol
+Update Crypto Currency
+Are you sure want to delete this coin
+Version
+What is the Update ?
+Total Users
+Total Verified Users
+Total Email Unverified Users
+Total SMS Unverified Users
+Total Crypto Currency
+Users
+Verified Users
+Email Unverified Users
+SMS Unverified Users
+Crypto Currency
+Monthly  Deposit & Withdraw  Report
+Total Deposited Amount
+Total Deposit Charge
+Deposited Amount
+Deposit Charge
+Withdraw Charge
+Withdraw Pending
+New User list
+Last 30 days Withdraw History
+Last Cron Run
+Deposit Via
+Transaction Number
+Admin Response
+User Deposit Information
+Image
+Approve Deposit Confirmation
+Approve
+Reject Deposit Confirmation
+deposit of
+Reason for Rejection
+Reject
+Successful Deposit
+Pending Deposit
+Rejected Deposit
+Trx Number
+Method
+Approved
+Rejected
+Deposit code/Username
+Min Date - Max date
+Email Send Method
+PHP Mail
+SMTP
+SendGrid API
+Mailjet API
+Send Test Mail
+SMTP Configuration
+Host
+smtp.googlemail.com
+Port
+Available port
+Encryption
+SSL
+TLS
+Username
+Normally your email
+Password
+Normally your email password
+SendGrid API Configuration
+APP KEY
+SendGrid app key
+Mailjet API Configuration
+API PUBLIC KEY
+Mailjet API PUBLIC KEY
+API SECRET KEY
+Mailjet API SECRET KEY
+Update
+Test Mail Setup
+Sent to
+Email Address
+Close
+Send
+Short Code
+Description
+Short Code
+User Name
+Short Code
+Message
+Email Sent From
+Email address
+Email Body
+Your email template
+Update
+Name
+Subject
+Status
+Action
+Name
+Subject
+Status
+Active
+Disabled
+Action
+Edit
+Extension
+Status
+Action
+Extension
+Status
+Active
+Disabled
+Action
+Configure
+Help
+Enable
+Disable
+Update Extension
+Script
+Paste your script with proper key
+Close
+Update
+Extension Activation Confirmation
+extension
+Close
+Activate
+Extension Disable Confirmation
+extension
+Close
+Disable
+Need Help
+Close
+Extension
+Status
+Action
+Extension
+Status
+Active
+Disabled
+Action
+Configure
+Help
+Enable
+Disable
+Update Extension
+Script
+Paste your script with proper key
+Close
+Update
+Extension Activation Confirmation
+extension
+Close
+Activate
+Extension Disable Confirmation
+extension
+Close
+Disable
+Need Help
+Close
+ID
+Time
+Unit
+Created Date
+Action
+ID
+Time
+Unit
+Created Date
+Action
+Add Trade Setting
+Time
+Time
+Unit
+Select Unit
+Seconds
+Minutes
+Hours
+Close
+Save
+Update Trade Setting
+Time
+Time
+Unit
+Select Unit
+Seconds
+Minutes
+Hours
+Close
+Update
+Delete Confirmation
+Are you sure want to delete this trading time
+Close
+Delete
+Add New
+ID
+Username
+Crypto Currency
+Crypto Symbol
+Amount
+In Time
+HighLow
+Result
+Status
+Date
+ID
+Username
+Crypto Currency
+Crypto Symbol
+Amount
+In Time
+High Low
+High
+Low
+Result
+Win
+Lose
+Draw
+Pending
+Status
+Running
+Complete
+Date
+Username / Crypto Currency
+Select currency
+No available currency support
+Add new
+Configurations
+Copy
+Global Setting for
+Name for Gateway
+Remove
+Range
+Minimum Amount
+Maximum Amount
+Charge
+Fixed Charge
+Percent Charge
+Currency
+Currency
+Symbol
+Rate
+Configuration
+Name
+Name for Gateway
+Remove
+Range
+Minimum Amount
+Maximum Amount
+Charge
+Fixed Charge
+Percent Charge
+Currency
+Currency
+Symbol
+Rate
+Configuration
+Update Setting
+Gateway Currency Remove Confirmation
+gateway currency?
+Delete
+Close
+Go Back
+Gateway
+Supported Currency
+Enabled Currency
+Status
+Action
+Gateway
+image
+Supported Currency
+Enabled Currency
+Status
+Active
+Disabled
+Action
+Edit
+Enable
+Disable
+Payment Method Activation Confirmation
+method
+Close
+Activate
+Payment Method Disable Confirmation
+method
+Close
+Disable
+Gateway Name
+Method Name
+Currency
+Currency
+Rate
+Range
+Minimum Amount
+Maximum Amount
+Charge
+Fixed Charge
+Percent Charge
+Deposit Instruction
+User data
+Add new
+Save Method
+Go Back
+Field Name
+Input Text
+Textarea
+File upload
+Required
+Optional
+Gateway Name
+Method Name
+Currency
+Currency
+Rate
+Range
+Minimum Amount
+Maximum Amount
+Charge
+Fixed Charge
+Percent Charge
+Deposit Instruction
+User data
+Add new
+Field Name
+Input Text
+Textarea
+File upload
+Required
+Optional
+Save Method
+Go Back
+Field Name
+Input Text
+Textarea
+File upload
+Required
+Optional
+Gateway
+Status
+Action
+Gateway
+image
+Status
+Active
+Disabled
+Action
+Edit
+Enable
+Disable
+Payment Method Activation Confirmation
+method
+Close
+Activate
+Payment Method Disable Confirmation
+method
+Close
+Disable
+Add new
+Language Keywords of
+Add New Key
+Key
+Action
+Key
+Value
+Action
+Edit
+Remove
+Add new
+Key
+Key
+Value
+Value
+Close
+Save
+Edit
+Value
+Close
+Update
+Delete
+Are you sure you want to Delete?
+Close
+Delete
+Import Language
+If you import keywords, Your current keywords will be removed and replaced by imported keyword
+Key
+Import Keywords
+Close
+Import Now
+Import Language
+Name
+Code
+Default
+Actions
+Name
+Code
+Status
+Default
+Selectable
+Action
+Translate
+Edit
+Delete
+Add New Language
+Language Name
+e.g. Japaneese, Portuguese
+Language Code
+e.g. jp, pt-br
+Text Direction
+Left to Right
+Right to Left
+Default Language
+UNSET
+Close
+Save
+Edit Language
+Language Name
+Default Language
+UNSET
+Close
+Update
+Remove Language
+Are you sure you want to Delete?
+Close
+Delete
+Add New Language
+Cron Job Setting Instruction
+minutes is ideal
+Cron Command
+Copy
+minutes is ideal
+Cron Command
+Copy
+minutes is ideal
+Cron Command
+Copy
+Close
+Previous
+Next
+ID
+Username
+Crypto Currency
+Crypto Symbol
+Amount
+In Time
+HighLow
+Result
+Status
+Date
+ID
+Username
+Crypto Currency
+Crypto Symbol
+Amount
+In Time
+High Low
+High
+Low
+Result
+Win
+Lose
+Draw
+Pending
+Status
+Running
+Complete
+Date
+Username / Crypto Currency
+Date
+Username
+From Username
+TRX
+Amount
+Post Balance
+Detail
+Date
+Username
+From Username
+TRX
+Amount
+Post Balance
+Detail
+TRX / Username / From Username
+Date
+Username
+IP
+Location
+Browser
+OS
+Date
+Username
+IP
+Location
+Browser
+OS
+Search here
+Date
+TRX
+Username
+Amount
+Charge
+Post Balance
+Detail
+Date
+TRX
+Username
+Amount
+Charge
+Post Balance
+Detail
+TRX / Username
+TRX / Username
+Site Title
+Crypto Rate Api Key
+TinyMCE API
+Crypto Chart Api Key
+Currency
+Currency Symbol
+withPersona KYC Templates
+withPersona KYC environment
+Practice Balance
+Enter Amount
+Trade Profit
+Enter Amount
+Referral Bonus
+Enter Amount
+Site Base Color
+Referral Status
+Inactive
+Force Secure Password
+Disabled
+User Registration
+Disabled
+Force SSL
+Disabled
+Email Verification
+Disable
+Email Notification
+Disable
+SMS Verification
+Disable
+SMS Notification
+Disable
+Update
+Select Logo
+Select Favicon
+Update
+Short Code
+Description
+Status
+Send SMS
+Message
+Your message using shortcodes
+Submit
+Go Back
+Name
+Status
+Action
+Name
+Status
+Active
+Disabled
+Action
+Edit
+Short Code
+Description
+Number
+Message
+Send Test SMS
+SMS API
+SMS API Configuration
+Submit
+Test Mail Setup
+Sent to
+Moble
+Close
+Send
+Email
+Joined
+Action
+Email
+Joined
+Action
+Remove
+Are you sure want to remove?
+will be removed.
+Close
+Remove
+ Send Email
+Subject
+Email subject
+Email Body
+Your email template
+ Send Mail
+Go Back
+Open
+Answered
+Customer Reply
+Closed
+Ticket#
+Close Ticket
+Your Message
+Attachments
+Select your file!
+Allowed File Extensions
+Reply
+Delete
+Posted on
+Attachment
+Staff
+Delete
+Posted on
+Attachment
+Close Support Ticket!
+Are you  want to Close This Support Ticket?
+No
+Close Ticket
+Delete Reply!
+Are you sure to delete this?
+No
+Delete
+Go Back
+Subject
+Submitted By
+Status
+Last Reply
+Action
+Subject
+Submitted By
+Status
+Open
+Answered
+Customer Reply
+Closed
+Last Reply
+Action
+Details
+Profile Image
+Joined At
+User information
+Username
+Status
+Active
+Banned
+Reference By
+Balance
+User action
+Add/Subtract Balance
+Login Logs
+Send Email
+Referral Log
+Commission Log
+Total Deposit
+Total Withdraw
+Total Transaction
+Total Practice
+Total Trade
+Total Wining Trade
+Total Losing Trade
+Total Draw Trade
+Deposit
+Withdraw
+Transaction
+Practice
+Trade
+Wining Trade
+Losing Trade
+Draw Trade
+Information
+First Name
+Last Name
+Email
+Mobile Number
+Address
+House number, street address
+City
+State
+Zip/Postal
+Country
+Status
+Banned
+Email Verification
+Unverified
+SMS Verification
+Unverified
+2FA Status
+Deactive
+2FA Verification
+Unverified
+Save Changes
+Add / Subtract Balance
+Subtract Balance
+Amount
+Please provide positive amount
+Close
+Submit
+Subject
+Email subject
+Message
+Your message
+Send Email
+Subject
+Email subject
+Message
+Your message
+Send Email
+User
+Username
+Email
+Phone
+Joined At
+Action
+User
+image
+Username
+Email
+Phone
+Joined At
+Action
+Details
+Username or email
+Date
+Username
+IP
+Location
+Browser
+OS
+Date
+Username
+IP
+Location
+Browser
+OS
+Method Name
+Currency
+Rate
+Range
+Minimum Amount
+Maximum Amount
+Charge
+Fixed Charge
+Percent Charge
+User data
+Add new
+Input Text
+Textarea
+File upload
+Required
+Optional
+image
+Date
+Username
+method
+Amount
+Charge
+Rate
+Status
+Pending
+image
+Close
+Close
+Method Name
+Currency
+Rate
+Range
+Minimum Amount
+Maximum Amount
+Charge
+Fixed Charge
+Percent Charge
+User data
+Add new
+Input Text
+Textarea
+File upload
+Required
+Optional
+Go Back
+Input Text
+Textarea
+File upload
+Required
+Optional
+method
+Currency
+Charge
+Status
+Action
+method
+image
+Currency
+Charge
+Status
+Active
+Disabled
+Action
+Edit
+Disable
+method
+Close
+Activate
+method
+Close
+Disable
+Add new
+Date
+Username
+method
+Amount
+Charge
+Rate
+Action
+Status
+Date
+Username
+method
+Amount
+Charge
+Rate
+Action
+Detail
+Status
+Pending
+Detail
+image
+image
+image
+Page not found
+or temporarily unavailable.
+Go to Home
+image
+Sorry your session has expired.
+Please go back and refresh your browser and try again
+Go to Home
+image
+Internal Server Error
+The server has been deserted for a while.
+Please be patient or try again later.
+Go to Home
+A fresh verification link has been sent to your email address.
+Thank you for verifying your e-mail address.
+image
+image
+Add Crypto Currency
+Are you sure want to watchlist this coin
+Close
+Delete
+Wallet
+Add Practice Balance
+Are you sure you want to add practice balance
+Close
+Confirm
+Delete Confirmation
+Are you sure want to remove this coin from watchlist
+Close
+Delete
+image
+image
+Total Trade Log
+Total Wining Trade
+Total Losing Trade
+Total Draw Trade
+Trade Log
+Trade Logs
+Wining Trade
+Losing Trade
+Total Draw Trade
+Current Balance
+Deposit
+Withdraw
+Total Transactions
+Total Trade Log
+Total Wining Trade
+Total Losing Trade
+Draw Trade
+Transactions
+KYC Applications
+Pending KYC
+Missing KYC
+Approved KYC
+Wining Trade
+Losing Trade
+Total Draw Trade
+View All
+ID
+Crypto Currency
+Crypto Symbol
+Amount
+High/Low
+Result
+Status
+Date
+ID
+Crypto Currency
+Crypto Symbol
+Amount
+High/Low
+High
+Low
+Result
+Win
+Lose
+Draw
+Pending
+Status
+Running
+Complete
+Date
+No results found
+Submit
+Email
+Submit
+Username
+Username
+Password
+Password
+Username
+Password
+Password
+First Name
+First Name
+Last Name
+Last Name
+Username
+Username
+Password
+Password
+Date
+Username
+TRX
+Amount
+Post Balance
+Detail
+Date
+Username
+TRX
+Amount
+Post Balance
+Detail
+Rise
+Fall
+Draw
+Pending
+No results found
+Rise
+Fall
+Draw
+Pending
+No results found
+Add Practice Balance
+Practice Balance
+Trade Now
+Add Practice Balance
+Are you sure you want to add practice balance
+Close
+Confirm
+ID
+Crypto Currency
+Crypto Symbol
+Amount
+High/Low
+Result
+Status
+Date
+High
+Low
+Win
+Lose
+Draw
+Pending
+Running
+Complete
+No results found
+Enter Amount
+Fall
+Rise
+Transaction ID
+Gateway
+Amount
+Status
+Date
+Details
+TRX
+Gateway
+Amount
+Complete
+Pending
+Cancel
+Date
+Details
+No results found
+Details
+Amount
+Charge
+After Charge
+Conversion Rate
+Payable Amount
+Close
+Details
+Close
+image
+Payment Information
+Trade Now
+ID
+Crypto Currency
+Crypto Symbol
+Amount
+High/Low
+Result
+Status
+Date
+High
+Low
+Win
+Lose
+Draw
+Pending
+Running
+Complete
+No results found
+Price
+Enter Amount
+High
+Low
+Please pay
+for successful payment
+Please follow the instruction bellow
+image
+Select
+Change
+Remove
+Pay Now
+Payment Preview
+PLEASE SEND EXACTLY
+TO
+image
+SCAN TO SEND
+Deposit Now
+Deposit Limit
+Charge
+Enter Amount
+Close
+Submit
+Payment By,
+Payment Image
+Final Amount
+To Get
+Pay Now
+Payment Image
+Final Amount
+To Get
+Pay Now
+Payment Image
+Amount
+Charge
+Payable
+Conversion Rate
+In
+Conversion with
+and final value will Show on next step
+Pay Now
+Pay Now
+Payment Image
+Final Amount
+To Get
+Stripe Payment
+CARD NAME
+Card Name
+CARD NUMBER
+Valid Card Number
+EXPIRATION DATE
+MM / YYYY
+CVC CODE
+CVC
+Pay Now
+Payment Image
+Final Amount
+To Get
+Deposit with Stripe
+Payment Image
+Final Amount
+To Get
+Pay Now
+ID
+First Name
+Last Name
+Username
+Date
+ID
+First Name
+Last Name
+Username
+Date
+All Tickets
+Name
+Email
+Subject
+Enter Subject
+Message
+Message
+Attachments
+Allowed File Extensions
+Send Message
+New Ticket
+Subject
+Status
+Last Reply
+Action
+Ticket
+Status
+Open
+Answered
+Customer Reply
+Closed
+Last Reply
+Action
+No results found
+Open
+Answered
+Replied
+Closed
+Ticket
+Close Ticket
+Enter Message
+Attachments
+Allowed File Extensions
+Send Message
+User
+Posted on
+Attachment
+Admin Image
+Posted on
+Attachment
+Confirmation
+Are you sure you want to close this support ticket
+Close
+Confirm
+Date
+TRX
+Amount
+Charge
+Post Balance
+Detail
+Date
+TRX
+Amount
+Charge
+Post Balance
+Detail
+Gateway
+Amount
+Charge
+Rate
+Status
+TRX
+Gateway
+Amount
+Charge
+Rate
+Status
+Pending
+Details
+Close
+Charge
+Close
+Confirm
+Charge
+image
+Remove
+Confirm
+Close
+Confirm
+Author
+Created Date
+Status
+image
+Disabled
+Enabled
+Action
+Delete Confirmation
+Are you sure want to delete this coin
+Close
+Delete
+Post
+Add New
+Dashboard
+News
+Practice Log
+Pracetice Log
+Deposit
+Deposit Money
+Deposit History
+Withdraw
+Withdraw Money
+Withdraw History
+Referral
+Referral Log
+Manage Users
+All Users
+Active Users
+Banned Users
+Email Unverified
+SMS Unverified
+Send Email
+Crypto Currency
+Trade Setting
+Practice Trade
+All
+Wining
+Losing
+Draw
+Trade Log
+Trade Logs
+Payment Gateways
+Automatic Gateways
+Manual Gateways
+Deposits
+Pending Deposits
+Approved Deposits
+Successful Deposits
+Rejected Deposits
+All Deposits
+Withdrawals
+Withdraw Methods
+Pending Log
+Approved Log
+Rejected Log
+Withdrawals Log
+Support Ticket
+All Ticket
+Pending Ticket
+Closed Ticket
+Answered Ticket
+Report
+Transaction History
+Commission Log
+Login History
+Subscribers
+Settings
+General Setting
+Logo Icon Setting
+Extensions
+Language
+SEO Manager
+Email Manager
+Global Template
+Email Templates
+Email Configure
+SMS Manager
+API Setting
+SMS Templates
+Frontend Manager
+Manage Templates
+Manage Pages
+Manage Section
+App Section
+Banner Section
+Blog Section
+Breadcrumb Section
+Call To Action Section
+Contact Us Section
+Faq Section
+Feature Section
+Footer Section
+Predict Section
+Social Icons Section
+Subscribe Section
+Trade Section
+Trend Section
+Starter Kit
+Apps & Pages
+User Interface
+Dashboards
+Analytics
+eCommerce
+Apps
+UI Elements
+Forms & Tables
+Pages
+Charts & Maps
+Others
+Email
+Chat
+Todo
+Calendar
+Ecommerce
+Shop
+Wishlist
+Checkout
+Starter kit
+1 column
+2 columns
+Fixed navbar
+Floating navbar
+Fixed layout
+Static layout
+Dark layout
+Light layout
+Data List
+List View
+Thumb View
+Content
+Grid
+Typography
+Text Utilities
+Syntax Highlighter
+Helper Classes
+Colors
+Icons
+Feather
+Font Awesome
+Card
+Basic
+Advance
+Advanced
+Statistics
+Card Actions
+Table
+Datatable
+Components
+Alerts
+Buttons
+Breadcrumbs
+Carousel
+Collapse
+Dropdowns
+List Group
+Modals
+Pagination
+Navs Component
+Navbar
+Tabs Component
+Pills Component
+Tooltips
+Popovers
+Badges
+Pill Badges
+Progress
+Spinner
+Toasts
+Extra Components
+Avatar
+Chips
+Divider
+Form Elements
+Select
+Switch
+Checkbox
+Radio
+Input
+Input Groups
+Number Input
+Textarea
+Date & Time Picker
+Form Layout
+Form Wizard
+Form Validation
+Authentication
+Login v1
+Login v2
+Register v1
+Register v2
+Forgot Password v1
+Forgot Password v2
+Reset Password v1
+Reset Password v2
+Coming Soon
+Error
+404
+500
+Not Authorized
+Maintenance
+Profile
+FAQ
+Knowledge Base
+Search
+Invoice
+Charts
+Apex
+Chartjs
+Echarts
+Google Maps
+Sweet Alert
+Toastr
+Sliders
+File Uploader
+Quill Editor
+Drag & Drop
+Tour
+Clipboard
+Context Menu
+l18n
+Menu Levels
+Second Level 2.1
+Second Level 2.2
+Third Level 3.1
+Third Level 3.2
+Disabled Menu
+Documentation
+Raise Support
+Miscellaneous
+Extensions
+Media Player
+User Settings
+User
+List
+View
+Edit
+Account Settings
+Error 404
+Error 405
+Details
+Swiper
+I18n
+Access Control
+File Manager
+Pricing
+Kanban
+Preview
+Add
+Blog
+Detail
+Mail Template
+Welcome
+Forgot
+Verify
+Deactivate
+Order
+Page Layouts
+Collapsed Menu
+Layout Full
+Without Menu
+Layout Empty
+Layout Blank
+Form Repeater
+Leaflet Maps
+Misc
+Input Mask
+Timeline
+BlockUI
+Tree
+Ratings
+Locale
+Reset Password
+Verify Email
+Deactivate Account
+Promotional
+Accordion
+Offcanvas
+Cake sesame snaps cupcake gingerbread danish I love gingerbread. Apple pie pie jujubes chupa chups muffin halvah lollipop. Chocolate cake oat cake tiramisu marzipan sugar plum. Donut sweet pie oat cake dragée fruitcake cotton candy lemon drops."

@@ -1,0 +1,1613 @@
+Heim
+Anmeldung
+Sieg
+Verlieren
+Zeichnen
+Ergebnis
+Bot starten
+Bitte drehen Sie Ihr Gerät in den Hochformatmodus.
+Gefälschte/echte Daten von Bot-Händlern
+Binärer Handel
+APR
+Verwendet
+Beschreibung
+Mindestgewinn
+Maximaler Gewinn
+ist neu
+ist aktiv
+Mindest
+max
+Laufzeiten
+Bot wird entfernt.
+Bot-Verträge
+Anfang
+Ende
+Gewinn festlegen
+Bot-Timing
+Brieftasche erstellen
+Bot auswählen
+Dauer
+Höchster effektiver Jahreszins heute
+Herzlich willkommen
+Neuer Bot
+Laufende Bots
+Abgeschlossene Bots
+Gesamtinvestition
+Gesamtgewinn/-verlust
+Ihre Bots
+Empfehlen & verdienen
+Empfehlen Sie Ihre Freunde und verdienen Sie 5 % für jeden Kunden, der 1 Einzahlung auf der Plattform tätigt.
+Einladen
+Nicht installiert
+Installieren
+Bot-Trader-Ergebnisse
+Angepasst
+Positiv
+Negativ
+bot
+Profitieren
+Paar
+Bots
+Protokolle
+Bot-Protokolle
+Vollendet
+Vertrag ansehen
+Bot-Händler
+Beginnend
+Endtermin
+Gewinn/Verlust
+Mein Geldbeutel
+Zurück
+Bots-Liste
+Bot-Dauer entfernen
+Dauer
+Typ
+Neue Dauer hinzufügen
+Neue Bot-Dauer
+Bot-Dauer bearbeiten
+Neuer Bot
+Bot wird entfernt.
+APR
+Verwendet
+Bot-Name
+Bot-Timing
+Bot-Manager
+Bots-Manager
+Laufende Bots
+Abgeschlossene Bots
+Plattformeinstellung
+KYC
+Handelt Mindestbetrag
+Handelt Höchstbetrag
+Trades Minimum Sekunden
+Trades Maximale Sekunden
+Trades Mindestminuten
+Handelt maximale Minuten
+Trades Mindeststunden
+Handelt maximale Stunden
+Transaktionsgebühr
+Empfänger-Wallet
+Anfrage
+Anfrage von Wallet
+Von Wallet
+Zur Geldbörse
+Brieftasche wird erhalten
+Wallet wird belastet
+Sie haben angefordert
+Paarliste
+Coin-Manager
+Erstellen Sie Ihre erste Brieftasche:
+Einzahlungsmethode
+Methode zurückziehen
+Die Info
+Mailing-Einstellung aktualisieren
+Geldbörsen
+Standard-Dashboard für Benutzer
+Brieftasche üben
+Besorgen
+Verkaufen
+Krypto-Börse
+Umtauschgebühr
+Wallet-Austausch
+Umzutauschender Betrag
+Höhe
+Kontaktiere uns
+Lizenz ist ungültig
+wenden Sie sich bitte an den Support.
+Steigen sinken
+Optimieren
+Seite, nach der Sie suchen, wird nicht beendet oder ein anderer Fehler ist aufgetreten
+Trennen Sie mehrere Schlüsselwörter durch
+Systemmanager
+Sind Sie sicher zu aktivieren
+Sind Sie sicher zu deaktivieren
+Methodenbezeichnung
+Automatisch
+Handbuch
+Echte Protokolle
+Cron-Job
+Um das Handelsergebnis zu automatisieren, führen Sie die
+Minuten ist ideal
+Um das Übungshandelsergebnis zu automatisieren, führen Sie die
+Aktualisierungspreis der Kryptowährung
+Cron-Befehl
+auf Ihrem Server. Stellen Sie die Cron-Zeit so gering wie möglich ein. Einmal pro
+Praxisverträge
+Handelsverträge
+Münzliste
+KYC-Manager
+Alle KYC-Anwendungen
+Blog-Manager
+EINSTELLEN
+Marktanalyse
+Alle Rechte vorbehalten
+Meta-Keywords
+Eintreten
+Komma
+Trennen
+Meta-Beschreibung
+Sozialer Titel
+Soziale Beschreibung
+Bild hochladen
+Das Bild wird in der Größe geändert
+px
+Unterstützte Dateien
+JPEG
+jpg
+Schlüssel
+oder
+Trennen
+Transaktionsprotokoll
+Anmelden
+Beiträge
+Startseite
+Über Seite
+Kontaktseite
+Erstelle neu
+Handel üben
+Übungsprotokolle
+Post
+Autor
+Ermöglicht
+Münzsymbol
+Kryptowährung aktualisieren
+Möchten Sie diese Münze wirklich löschen?
+Ausführung
+Was ist das Update?
+Benutzer insgesamt
+Gesamtzahl verifizierter Benutzer
+Gesamtzahl der nicht verifizierten E-Mail-Benutzer
+Gesamtzahl der nicht verifizierten SMS-Benutzer
+Gesamte Kryptowährung
+Benutzer
+Verifizierte Benutzer
+E-Mail an nicht verifizierte Benutzer
+SMS nicht verifizierte Benutzer
+Kryptowährung
+Monatlicher Ein- und Auszahlungsbericht
+Eingezahlter Gesamtbetrag
+Gesamte Einzahlungsgebühr
+Eingezahlter Betrag
+Kaution
+Gebühr zurückziehen
+Auszahlung ausstehend
+Neue Benutzerliste
+Auszahlungsverlauf der letzten 30 Tage
+Letzter Cron-Lauf
+Einzahlung über
+Transaktionsnummer
+Antwort des Administrators
+Benutzer-Einzahlungsinformationen
+Bild
+Einzahlungsbestätigung genehmigen
+Genehmigen
+Einzahlungsbestätigung ablehnen
+Anzahlung von
+Grund für die Ablehnung
+Ablehnen
+Erfolgreiche Einzahlung
+Ausstehende Einzahlung
+Abgelehnte Einzahlung
+Trx-Nummer
+Methode
+Genehmigt
+Abgelehnt
+Einzahlungscode/Benutzername
+Min. Datum - Max. Datum
+E-Mail-Sendemethode
+PHP-Mail
+SMTP
+SendGrid-API
+Mailjet-API
+Testmail senden
+SMTP-Konfiguration
+Gastgeber
+smtp.googlemail.com
+Hafen
+Verfügbarer Anschluss
+Verschlüsselung
+SSL
+TLS
+Nutzername
+Normalerweise Ihre E-Mail
+Passwort
+Normalerweise Ihr E-Mail-Passwort
+SendGrid-API-Konfiguration
+APP-SCHLÜSSEL
+SendGrid-App-Schlüssel
+Mailjet-API-Konfiguration
+ÖFFENTLICHER API-SCHLÜSSEL
+ÖFFENTLICHER SCHLÜSSEL der Mailjet-API
+API-GEHEIMSCHLÜSSEL
+Mailjet-API GEHEIMSCHLÜSSEL
+Aktualisieren
+Mail-Setup testen
+Gesendet an
+E-Mail-Addresse
+Nah dran
+Senden
+Kurzcode
+Beschreibung
+Kurzcode
+Nutzername
+Kurzcode
+Nachricht
+E-Mail gesendet von
+E-Mail-Addresse
+Nachrichtentext
+Ihre E-Mail-Vorlage
+Aktualisieren
+Name
+Gegenstand
+Status
+Aktion
+Name
+Gegenstand
+Status
+Aktiv
+Behindert
+Aktion
+Bearbeiten
+Verlängerung
+Status
+Aktion
+Verlängerung
+Status
+Aktiv
+Behindert
+Aktion
+Konfigurieren
+Hilfe
+Ermöglichen
+Deaktivieren
+Erweiterung aktualisieren
+Skript
+Fügen Sie Ihr Skript mit dem richtigen Schlüssel ein
+Nah dran
+Aktualisieren
+Aktivierungsbestätigung der Erweiterung
+Verlängerung
+Nah dran
+aktivieren Sie
+Bestätigung der Deaktivierung der Erweiterung
+Verlängerung
+Nah dran
+Deaktivieren
+Brauchen Sie Hilfe
+Nah dran
+Verlängerung
+Status
+Aktion
+Verlängerung
+Status
+Aktiv
+Behindert
+Aktion
+Konfigurieren
+Hilfe
+Ermöglichen
+Deaktivieren
+Erweiterung aktualisieren
+Skript
+Fügen Sie Ihr Skript mit dem richtigen Schlüssel ein
+Nah dran
+Aktualisieren
+Aktivierungsbestätigung der Erweiterung
+Verlängerung
+Nah dran
+aktivieren Sie
+Bestätigung der Deaktivierung der Erweiterung
+Verlängerung
+Nah dran
+Deaktivieren
+Brauchen Sie Hilfe
+Nah dran
+ICH WÜRDE
+Zeit
+Einheit
+Erstellungsdatum
+Aktion
+ICH WÜRDE
+Zeit
+Einheit
+Erstellungsdatum
+Aktion
+Handelseinstellung hinzufügen
+Zeit
+Zeit
+Einheit
+Einheit auswählen
+Sekunden
+Protokoll
+Std
+Nah dran
+Speichern
+Handelseinstellung aktualisieren
+Zeit
+Zeit
+Einheit
+Einheit auswählen
+Sekunden
+Protokoll
+Std
+Nah dran
+Aktualisieren
+Bestätigung löschen
+Möchten Sie diese Handelszeit wirklich löschen?
+Nah dran
+Löschen
+Neue hinzufügen
+ICH WÜRDE
+Nutzername
+Kryptowährung
+Krypto-Symbol
+Höhe
+Rechtzeitig
+Hoch niedrig
+Ergebnis
+Status
+Datum
+ICH WÜRDE
+Nutzername
+Kryptowährung
+Krypto-Symbol
+Höhe
+Rechtzeitig
+Hoch niedrig
+Hoch
+Niedrig
+Ergebnis
+Sieg
+Verlieren
+Zeichnen
+Ausstehend
+Status
+Betrieb
+Vollständig
+Datum
+Benutzername / Kryptowährung
+Währung wählen
+Keine verfügbare Währungsunterstützung
+Neue hinzufügen
+Konfigurationen
+Kopieren
+Globale Einstellung für
+Name für Gateway
+Entfernen
+Bereich
+Mindestbetrag
+Höchstbetrag
+Aufladen
+Feste Gebühr
+Prozent Gebühr
+Währung
+Währung
+Symbol
+Rate
+Aufbau
+Name
+Name für Gateway
+Entfernen
+Bereich
+Mindestbetrag
+Höchstbetrag
+Aufladen
+Feste Gebühr
+Prozent Gebühr
+Währung
+Währung
+Symbol
+Rate
+Aufbau
+Update-Einstellung
+Bestätigung zum Entfernen der Gateway-Währung
+Gateway-Währung?
+Löschen
+Nah dran
+Geh zurück
+Tor
+Unterstützte Währung
+Aktivierte Währung
+Status
+Aktion
+Tor
+Bild
+Unterstützte Währung
+Aktivierte Währung
+Status
+Aktiv
+Behindert
+Aktion
+Bearbeiten
+Ermöglichen
+Deaktivieren
+Bestätigung der Aktivierung der Zahlungsmethode
+Methode
+Nah dran
+aktivieren Sie
+Bestätigung der Deaktivierung der Zahlungsmethode
+Methode
+Nah dran
+Deaktivieren
+Gateway-Name
+Methodenname
+Währung
+Währung
+Rate
+Bereich
+Mindestbetrag
+Höchstbetrag
+Aufladen
+Feste Gebühr
+Prozent Gebühr
+Einzahlungsanweisung
+Benutzerdaten
+Neue hinzufügen
+Methode speichern
+Geh zurück
+Feldname
+Eingabetext
+Textbereich
+Datei-Upload
+Erforderlich
+Optional
+Gateway-Name
+Methodenname
+Währung
+Währung
+Rate
+Bereich
+Mindestbetrag
+Höchstbetrag
+Aufladen
+Feste Gebühr
+Prozent Gebühr
+Einzahlungsanweisung
+Benutzerdaten
+Neue hinzufügen
+Feldname
+Eingabetext
+Textbereich
+Datei-Upload
+Erforderlich
+Optional
+Methode speichern
+Geh zurück
+Feldname
+Eingabetext
+Textbereich
+Datei-Upload
+Erforderlich
+Optional
+Tor
+Status
+Aktion
+Tor
+Bild
+Status
+Aktiv
+Behindert
+Aktion
+Bearbeiten
+Ermöglichen
+Deaktivieren
+Bestätigung der Aktivierung der Zahlungsmethode
+Methode
+Nah dran
+aktivieren Sie
+Bestätigung der Deaktivierung der Zahlungsmethode
+Methode
+Nah dran
+Deaktivieren
+Neue hinzufügen
+Sprache Schlüsselwörter von
+Neuen Schlüssel hinzufügen
+Taste
+Aktion
+Taste
+Wert
+Aktion
+Bearbeiten
+Entfernen
+Neue hinzufügen
+Taste
+Taste
+Wert
+Wert
+Nah dran
+Speichern
+Bearbeiten
+Wert
+Nah dran
+Aktualisieren
+Löschen
+Sind Sie sicher, dass Sie löschen möchten?
+Nah dran
+Löschen
+Sprache importieren
+Wenn Sie Schlüsselwörter importieren, werden Ihre aktuellen Schlüsselwörter entfernt und durch importierte Schlüsselwörter ersetzt
+Taste
+Schlüsselwörter importieren
+Nah dran
+Jetzt importieren
+Sprache importieren
+Name
+Code
+Standard
+Aktionen
+Name
+Code
+Status
+Standard
+Wählbar
+Aktion
+Übersetzen
+Bearbeiten
+Löschen
+Neue Sprache hinzufügen
+Sprache Name
+zB Japanisch, Portugiesisch
+Sprachcode
+zB jp, pt-br
+Textrichtung
+Links nach rechts
+Rechts nach links
+Standardsprache
+UNSCHARF
+Nah dran
+Speichern
+Sprache bearbeiten
+Sprache Name
+Standardsprache
+UNSCHARF
+Nah dran
+Aktualisieren
+Sprache entfernen
+Sind Sie sicher, dass Sie löschen möchten?
+Nah dran
+Löschen
+Neue Sprache hinzufügen
+Anleitung zum Einrichten von Cron-Jobs
+Minuten ist ideal
+Cron-Befehl
+Kopieren
+Minuten ist ideal
+Cron-Befehl
+Kopieren
+Minuten ist ideal
+Cron-Befehl
+Kopieren
+Nah dran
+Vorherige
+Nächste
+ICH WÜRDE
+Nutzername
+Kryptowährung
+Krypto-Symbol
+Höhe
+Rechtzeitig
+Hoch niedrig
+Ergebnis
+Status
+Datum
+ICH WÜRDE
+Nutzername
+Kryptowährung
+Krypto-Symbol
+Höhe
+Rechtzeitig
+Hoch niedrig
+Hoch
+Niedrig
+Ergebnis
+Sieg
+Verlieren
+Zeichnen
+Ausstehend
+Status
+Betrieb
+Vollständig
+Datum
+Benutzername / Kryptowährung
+Datum
+Nutzername
+Von Benutzername
+TRX
+Höhe
+Post-Guthaben
+Detail
+Datum
+Nutzername
+Von Benutzername
+TRX
+Höhe
+Post-Guthaben
+Detail
+TRX / Benutzername / Von Benutzername
+Datum
+Nutzername
+IP
+Ort
+Browser
+Betriebssystem
+Datum
+Nutzername
+IP
+Ort
+Browser
+Betriebssystem
+Suche hier
+Datum
+TRX
+Nutzername
+Höhe
+Aufladen
+Post-Guthaben
+Detail
+Datum
+TRX
+Nutzername
+Höhe
+Aufladen
+Post-Guthaben
+Detail
+TRX / Benutzername
+TRX / Benutzername
+Seitentitel
+Kryptoraten-API-Schlüssel
+TinyMCE-API
+Crypto Chart API-Schlüssel
+Währung
+Währungszeichen
+mit Persona KYC-Vorlagen
+mit Persona KYC-Umgebung
+Gleichgewicht üben
+Menge eingeben
+Handelsgewinn
+Menge eingeben
+Empfehlungsbonus
+Menge eingeben
+Site-Grundfarbe
+Empfehlungsstatus
+Inaktiv
+Sicheres Passwort erzwingen
+Behindert
+Benutzer Registration
+Behindert
+SSL erzwingen
+Behindert
+E-Mail-Verifizierung
+Deaktivieren
+Email Benachrichtigung
+Deaktivieren
+SMS-Verifizierung
+Deaktivieren
+SMS-Benachrichtigung
+Deaktivieren
+Aktualisieren
+Wählen Sie Logo
+Wählen Sie Favicon
+Aktualisieren
+Kurzcode
+Beschreibung
+Status
+SMS senden
+Nachricht
+Ihre Nachricht mit Shortcodes
+einreichen
+Geh zurück
+Name
+Status
+Aktion
+Name
+Status
+Aktiv
+Behindert
+Aktion
+Bearbeiten
+Kurzcode
+Beschreibung
+Nummer
+Nachricht
+Test-SMS senden
+SMS-API
+SMS-API-Konfiguration
+einreichen
+Mail-Setup testen
+Gesendet an
+Mobil
+Nah dran
+Senden
+Email
+Beigetreten
+Aktion
+Email
+Beigetreten
+Aktion
+Entfernen
+Möchten Sie wirklich entfernen?
+wird entfernt.
+Nah dran
+Entfernen
+E-Mail senden
+Gegenstand
+E-Mail Betreff
+Nachrichtentext
+Ihre E-Mail-Vorlage
+E-Mail senden
+Geh zurück
+Offen
+Antwortete
+Kundenantwort
+Abgeschlossen
+Fahrkarte#
+Ticket schließen
+Deine Nachricht
+Anhänge
+Wählen Sie Ihre Datei aus!
+Zulässige Dateierweiterungen
+Antwort
+Löschen
+Veröffentlicht am
+Anhang
+Mitarbeiter
+Löschen
+Veröffentlicht am
+Anhang
+Support-Ticket schließen!
+Möchten Sie dieses Support-Ticket schließen?
+Nein
+Ticket schließen
+Antwort löschen!
+Möchten Sie dies wirklich löschen?
+Nein
+Löschen
+Geh zurück
+Gegenstand
+Eingereicht von
+Status
+Letzte Antwort
+Aktion
+Gegenstand
+Eingereicht von
+Status
+Offen
+Antwortete
+Kundenantwort
+Abgeschlossen
+Letzte Antwort
+Aktion
+Einzelheiten
+Profilbild
+Beigetreten bei
+Nutzerinformation
+Nutzername
+Status
+Aktiv
+Verboten
+Referenz von
+Gleichgewicht
+Benutzeraktion
+Guthaben hinzufügen/abziehen
+Anmeldeprotokolle
+E-Mail senden
+Empfehlungsprotokoll
+Kommissionsprotokoll
+Gesamteinzahlung
+Gesamtabhebung
+Gesamttransaktion
+Totale Praxis
+Totaler Handel
+Totaler Gewinnhandel
+Trade mit totalem Verlust
+Total Draw Trade
+Anzahlung
+Abheben
+Transaktion
+Trainieren
+Handeln
+Gewinnender Handel
+Handel verlieren
+Handel zeichnen
+Information
+Vorname
+Nachname
+Email
+Handy Nummer
+Adresse
+Hausnummer, Straße
+Stadt
+Zustand
+PLZ/Post
+Land
+Status
+Verboten
+E-Mail-Verifizierung
+Unbestätigt
+SMS-Verifizierung
+Unbestätigt
+2FA-Status
+Deaktiv
+2FA-Verifizierung
+Unbestätigt
+Änderungen speichern
+Guthaben hinzufügen / abziehen
+Guthaben abziehen
+Höhe
+Bitte geben Sie einen positiven Betrag an
+Nah dran
+einreichen
+Gegenstand
+E-Mail Betreff
+Nachricht
+Deine Nachricht
+E-Mail senden
+Gegenstand
+E-Mail Betreff
+Nachricht
+Deine Nachricht
+E-Mail senden
+Nutzer
+Nutzername
+Email
+Telefon
+Beigetreten bei
+Aktion
+Nutzer
+Bild
+Nutzername
+Email
+Telefon
+Beigetreten bei
+Aktion
+Einzelheiten
+Benutzername oder E-Mail-Adresse
+Datum
+Nutzername
+IP
+Ort
+Browser
+Betriebssystem
+Datum
+Nutzername
+IP
+Ort
+Browser
+Betriebssystem
+Methodenname
+Währung
+Rate
+Bereich
+Mindestbetrag
+Höchstbetrag
+Aufladen
+Feste Gebühr
+Prozent Gebühr
+Benutzerdaten
+Neue hinzufügen
+Eingabetext
+Textbereich
+Datei-Upload
+Erforderlich
+Optional
+Bild
+Datum
+Nutzername
+Methode
+Höhe
+Aufladen
+Rate
+Status
+Ausstehend
+Bild
+Nah dran
+Nah dran
+Methodenname
+Währung
+Rate
+Bereich
+Mindestbetrag
+Höchstbetrag
+Aufladen
+Feste Gebühr
+Prozent Gebühr
+Benutzerdaten
+Neue hinzufügen
+Eingabetext
+Textbereich
+Datei-Upload
+Erforderlich
+Optional
+Geh zurück
+Eingabetext
+Textbereich
+Datei-Upload
+Erforderlich
+Optional
+Methode
+Währung
+Aufladen
+Status
+Aktion
+Methode
+Bild
+Währung
+Aufladen
+Status
+Aktiv
+Behindert
+Aktion
+Bearbeiten
+Deaktivieren
+Methode
+Nah dran
+aktivieren Sie
+Methode
+Nah dran
+Deaktivieren
+Neue hinzufügen
+Datum
+Nutzername
+Methode
+Höhe
+Aufladen
+Rate
+Aktion
+Status
+Datum
+Nutzername
+Methode
+Höhe
+Aufladen
+Rate
+Aktion
+Detail
+Status
+Ausstehend
+Detail
+Bild
+Bild
+Bild
+Seite nicht gefunden
+oder vorübergehend nicht verfügbar.
+Zur Startseite
+Bild
+Entschuldigung, Ihre Sitzung ist abgelaufen.
+Bitte gehen Sie zurück und aktualisieren Sie Ihren Browser und versuchen Sie es erneut
+Zur Startseite
+Bild
+interner Serverfehler
+Der Server ist seit einiger Zeit verlassen.
+Bitte haben Sie etwas Geduld oder versuchen Sie es später erneut.
+Zur Startseite
+Ein neuer Bestätigungslink wurde an Ihre E-Mail-Adresse gesendet.
+Vielen Dank für die Bestätigung Ihrer E-Mail-Adresse.
+Bild
+Bild
+Kryptowährung hinzufügen
+Möchten Sie diese Münze wirklich auf die Beobachtungsliste setzen?
+Nah dran
+Löschen
+Brieftasche
+Übungsbilanz hinzufügen
+Sind Sie sicher, dass Sie Übungsguthaben hinzufügen möchten
+Nah dran
+Bestätigen Sie
+Bestätigung löschen
+Möchten Sie diese Münze wirklich aus der Beobachtungsliste entfernen?
+Nah dran
+Löschen
+Bild
+Bild
+Gesamthandelsprotokoll
+Totaler Gewinnhandel
+Trade mit totalem Verlust
+Total Draw Trade
+Handelsprotokoll
+Handelsprotokolle
+Gewinnender Handel
+Handel verlieren
+Total Draw Trade
+Aktuelles Guthaben
+Anzahlung
+Abheben
+Transaktionen insgesamt
+Gesamthandelsprotokoll
+Totaler Gewinnhandel
+Trade mit totalem Verlust
+Handel zeichnen
+Transaktionen
+KYC-Anwendungen
+KYC ausstehend
+KYC fehlt
+Genehmigtes KYC
+Gewinnender Handel
+Handel verlieren
+Total Draw Trade
+Alle ansehen
+ICH WÜRDE
+Kryptowährung
+Krypto-Symbol
+Höhe
+Hoch niedrig
+Ergebnis
+Status
+Datum
+ICH WÜRDE
+Kryptowährung
+Krypto-Symbol
+Höhe
+Hoch niedrig
+Hoch
+Niedrig
+Ergebnis
+Sieg
+Verlieren
+Zeichnen
+Ausstehend
+Status
+Betrieb
+Vollständig
+Datum
+keine Ergebnisse gefunden
+einreichen
+Email
+einreichen
+Nutzername
+Nutzername
+Passwort
+Passwort
+Nutzername
+Passwort
+Passwort
+Vorname
+Vorname
+Nachname
+Nachname
+Nutzername
+Nutzername
+Passwort
+Passwort
+Datum
+Nutzername
+TRX
+Höhe
+Post-Guthaben
+Detail
+Datum
+Nutzername
+TRX
+Höhe
+Post-Guthaben
+Detail
+Erheben
+Fallen
+Zeichnen
+Ausstehend
+keine Ergebnisse gefunden
+Erheben
+Fallen
+Zeichnen
+Ausstehend
+keine Ergebnisse gefunden
+Übungsbilanz hinzufügen
+Gleichgewicht üben
+Handel jetzt
+Übungsbilanz hinzufügen
+Sind Sie sicher, dass Sie Übungsguthaben hinzufügen möchten
+Nah dran
+Bestätigen Sie
+ICH WÜRDE
+Kryptowährung
+Krypto-Symbol
+Höhe
+Hoch niedrig
+Ergebnis
+Status
+Datum
+Hoch
+Niedrig
+Sieg
+Verlieren
+Zeichnen
+Ausstehend
+Betrieb
+Vollständig
+keine Ergebnisse gefunden
+Menge eingeben
+Fallen
+Erheben
+Transaktions-ID
+Tor
+Höhe
+Status
+Datum
+Einzelheiten
+TRX
+Tor
+Höhe
+Vollständig
+Ausstehend
+Abbrechen
+Datum
+Einzelheiten
+keine Ergebnisse gefunden
+Einzelheiten
+Höhe
+Aufladen
+Nach Ladung
+Wechselkurs
+Bezahlbarer Betrag
+Nah dran
+Einzelheiten
+Nah dran
+Bild
+Zahlungsinformationen
+Handel jetzt
+ICH WÜRDE
+Kryptowährung
+Krypto-Symbol
+Höhe
+Hoch niedrig
+Ergebnis
+Status
+Datum
+Hoch
+Niedrig
+Sieg
+Verlieren
+Zeichnen
+Ausstehend
+Betrieb
+Vollständig
+keine Ergebnisse gefunden
+Preis
+Menge eingeben
+Hoch
+Niedrig
+bitte bezahlen
+für erfolgreiche Zahlung
+Bitte befolgen Sie die nachstehenden Anweisungen
+Bild
+Wählen
+Veränderung
+Entfernen
+Zahlen Sie jetzt
+Zahlungsvorschau
+BITTE GENAU SENDEN
+ZU
+Bild
+Zum Senden scannen
+Jetzt einzahlen
+Einzahlungslimit
+Aufladen
+Menge eingeben
+Nah dran
+einreichen
+Zahlung von,
+Zahlungsbild
+Endbetrag
+Bekommen
+Zahlen Sie jetzt
+Zahlungsbild
+Endbetrag
+Bekommen
+Zahlen Sie jetzt
+Zahlungsbild
+Höhe
+Aufladen
+Zahlbar
+Wechselkurs
+In
+Konvertierung mit
+und der Endwert wird im nächsten Schritt angezeigt
+Zahlen Sie jetzt
+Zahlen Sie jetzt
+Zahlungsbild
+Endbetrag
+Bekommen
+Streifenzahlung
+KARTENNAME
+Kartenname
+KARTENNUMMER
+Gültige Kartennummer
+ABLAUFDATUM
+MM / JJJJ
+CVC-CODE
+Lebenslauf
+Zahlen Sie jetzt
+Zahlungsbild
+Endbetrag
+Bekommen
+Einzahlung mit Stripe
+Zahlungsbild
+Endbetrag
+Bekommen
+Zahlen Sie jetzt
+ICH WÜRDE
+Vorname
+Nachname
+Nutzername
+Datum
+ICH WÜRDE
+Vorname
+Nachname
+Nutzername
+Datum
+Alle Eintrittskarten
+Name
+Email
+Gegenstand
+Betreff eingeben
+Nachricht
+Nachricht
+Anhänge
+Zulässige Dateierweiterungen
+Nachricht senden
+Neues Ticket
+Gegenstand
+Status
+Letzte Antwort
+Aktion
+Fahrkarte
+Status
+Offen
+Antwortete
+Kundenantwort
+Abgeschlossen
+Letzte Antwort
+Aktion
+keine Ergebnisse gefunden
+Offen
+Antwortete
+Antwortete
+Abgeschlossen
+Fahrkarte
+Ticket schließen
+Nachricht eingeben
+Anhänge
+Zulässige Dateierweiterungen
+Nachricht senden
+Nutzer
+Veröffentlicht am
+Anhang
+Admin-Bild
+Veröffentlicht am
+Anhang
+Bestätigung
+Möchten Sie dieses Support-Ticket wirklich schließen?
+Nah dran
+Bestätigen Sie
+Datum
+TRX
+Höhe
+Aufladen
+Post-Guthaben
+Detail
+Datum
+TRX
+Höhe
+Aufladen
+Post-Guthaben
+Detail
+Tor
+Höhe
+Aufladen
+Rate
+Status
+TRX
+Tor
+Höhe
+Aufladen
+Rate
+Status
+Ausstehend
+Einzelheiten
+Nah dran
+Aufladen
+Nah dran
+Bestätigen Sie
+Aufladen
+Bild
+Entfernen
+Bestätigen Sie
+Nah dran
+Bestätigen Sie
+Autor
+Erstellungsdatum
+Status
+Bild
+Behindert
+Ermöglicht
+Aktion
+Bestätigung löschen
+Möchten Sie diese Münze wirklich löschen?
+Nah dran
+Löschen
+Post
+Neue hinzufügen
+Armaturenbrett
+Nachrichten
+Übungsprotokoll
+Übungsprotokoll
+Anzahlung
+Geld einzahlen
+Einzahlungshistorie
+Abheben
+Geld abheben
+Geschichte zurückziehen
+Verweisung
+Empfehlungsprotokoll
+Benutzer verwalten
+Alle Nutzer
+Aktive Benutzer
+Gesperrte Benutzer
+E-Mail nicht bestätigt
+SMS unbestätigt
+E-Mail senden
+Kryptowährung
+Handelseinstellung
+Handel üben
+Alle
+Gewinnen
+Verlieren
+Zeichnen
+Handelsprotokoll
+Handelsprotokolle
+Zahlungs-Gateways
+Automatische Gateways
+Manuelle Gateways
+Einlagen
+Ausstehende Einzahlungen
+Genehmigte Einzahlungen
+Erfolgreiche Einzahlungen
+Abgelehnte Einzahlungen
+Alle Einzahlungen
+Abhebungen
+Methoden zurückziehen
+Ausstehendes Protokoll
+Genehmigtes Protokoll
+Abgelehntes Protokoll
+Auszahlungsprotokoll
+Unterstüzungsticket
+Alle Tickets
+Ausstehendes Ticket
+Geschlossenes Ticket
+Ticket beantwortet
+Prüfbericht
+Verlauf der Transaktionen
+Kommissionsprotokoll
+Anmeldeverlauf
+Abonnenten
+Einstellungen
+Allgemeine Einstellung
+Logo-Icon-Einstellung
+Erweiterungen
+Sprache
+SEO-Manager
+E-Mail-Manager
+Globale Vorlage
+E-Mail-Vorlagen
+E-Mail konfigurieren
+SMS-Manager
+API-Einstellung
+SMS-Vorlagen
+Frontend-Manager
+Vorlagen verwalten
+Seiten verwalten
+Abschnitt verwalten
+App-Bereich
+Banner-Bereich
+Blog-Bereich
+Breadcrumb-Bereich
+Call-to-Action-Bereich
+Kontaktieren Sie uns Abschnitt
+FAQ-Bereich
+Feature-Bereich
+Fußbereich
+Abschnitt vorhersagen
+Abschnitt für soziale Symbole
+Abschnitt abonnieren
+Handelsabteilung
+Trendbereich
+Starter-Kit
+Apps & Seiten
+Benutzeroberfläche
+Dashboards
+Analytik
+E-Commerce
+Anwendungen
+UI-Elemente
+Formulare & Tabellen
+Seiten
+Diagramme & Karten
+Andere
+Email
+Plaudern
+Machen
+Kalender
+E-Commerce
+Einkaufen
+Wunschzettel
+Kasse
+Starter-Kit
+1 Spalte
+2 Spalten
+Navigationsleiste behoben
+Schwebende Navigationsleiste
+Festes Layout
+Statisches Layout
+Dunkles Layout
+Leichtes Layout
+Datenliste
+Listenansicht
+Daumenansicht
+Inhalt
+Netz
+Typografie
+Text-Dienstprogramme
+Syntax-Highlighter
+Helferklassen
+Farben
+Symbole
+Feder
+Schriftart genial
+Karte
+Basic
+Vorauszahlung
+Fortschrittlich
+Statistiken
+Kartenaktionen
+Tabelle
+Datentabelle
+Komponenten
+Warnungen
+Tasten
+Semmelbrösel
+Karussell
+Zusammenbruch
+Dropdowns
+Gruppe auflisten
+Modale
+Seitennummerierung
+Navs-Komponente
+Navigationsleiste
+Tabs-Komponente
+Pillen-Komponente
+Kurzinfos
+Popovers
+Abzeichen
+Pille-Abzeichen
+Fortschritt
+Spinner
+Toast
+Zusätzliche Komponenten
+Benutzerbild
+Chips
+Teiler
+Formularelemente
+Wählen
+Schalten
+Kontrollkästchen
+Radio
+Eingang
+Eingangsgruppen
+Zahleneingabe
+Textbereich
+Datums- und Zeitauswahl
+Formularlayout
+Formzauberer
+Formularvalidierung
+Authentifizierung
+Anmelden v1
+Anmelden v2
+Registrieren Sie v1
+Registrieren Sie v2
+Passwort vergessen v1
+Passwort vergessen v2
+Passwort zurücksetzen v1
+Passwort zurücksetzen v2
+Kommt bald
+Fehler
+404
+500
+Nicht berechtigt
+Wartung
+Profil
+FAQ
+Wissensbasis
+Suche
+Rechnung
+Diagramme
+Apex
+Chartjs
+Diagramme
+Google Maps
+Süßer Alarm
+Toaster
+Schieberegler
+Datei-Uploader
+Quill-Editor
+Ziehen und loslassen
+Tour
+Zwischenablage
+Kontextmenü
+l18n
+Menüebenen
+Zweite Ebene 2.1
+Zweite Ebene 2.2
+Dritte Ebene 3.1
+Dritte Ebene 3.2
+Deaktiviertes Menü
+Dokumentation
+Unterstützung erhöhen
+Sonstig
+Erweiterungen
+Media Player
+Benutzereinstellungen
+Nutzer
+Aufführen
+Aussicht
+Bearbeiten
+Account Einstellungen
+Fehler 404
+Fehler 405
+Einzelheiten
+Wischer
+I18n
+Zugangskontrolle
+Dateimanager
+Preisgestaltung
+Kanban
+Vorschau
+Hinzufügen
+Bloggen
+Detail
+Mail-Vorlage
+Herzlich willkommen
+Vergessen
+Verifizieren
+Deaktivieren
+Befehl
+Seitenlayouts
+Eingeklapptes Menü
+Layout voll
+Ohne Menü
+Layout leer
+Layout leer
+Formular-Repeater
+Faltblatt Karten
+Sonstiges
+Eingabemaske
+Zeitleiste
+BlockUI
+Baum
+Bewertungen
+Gebietsschema
+Passwort zurücksetzen
+E-Mail bestätigen
+Benutzerkonto deaktivieren
+Werbeartikel
+Akkordeon
+Leinwand
+Kuchen sesam schnappt cupcake lebkuchen dänisch ich liebe lebkuchen. Apfelkuchen, Kuchen, Jujuben, Chupa Chups, Muffin, Halvah, Lutscher. Schokokuchen Haferkuchen Tiramisu Marzipan Zucker Pflaume. Donut süße Torte Haferkuchen Dragee Obstkuchen Zuckerwatte Zitronendrops."
